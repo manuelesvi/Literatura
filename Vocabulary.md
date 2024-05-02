@@ -1,6 +1,6 @@
-## Chapter 1: The Theme
+# Vocabulary
 
-### Vocabulary
+## Chapter 1: The Theme
 
 1. chuckled
 : risa entre dientes
@@ -62,4 +62,16 @@
 ---
 
 ## Chapter 2: The Chain
+
+1. smear
+: calumnia
+
+2. coils
+: espirales, rollos
+
+3. checkered
+: a cuadros
+
+
+
 

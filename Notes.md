@@ -13,7 +13,7 @@
 His face showed no reaction, as if the words had no more significance for him than for a savage who had never heard of railroads.
 “I don’t want it, Miss Taggart,” he answered. [^5]
 
-> “Why?” she asked, not addressing him.
+> “Why?” she asked, not addressing him. 
 He stopped. He shrugged and smiled– he was alive for a moment and it was the strangest smile she had ever seen: it held secret amusement, and heartbreak, and an infinite bitterness. He answered: “Who is John Galt?” [^5]
 
 [^1]: Part 1, Chapter 1, Page 19.
