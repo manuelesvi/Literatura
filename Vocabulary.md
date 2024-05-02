@@ -3,7 +3,7 @@
 ## Chapter 1: The Theme
 
 1. chuckled
-: risa entre dientes
+: se rió entre dientes
 
 2. whistling
 : silbando
@@ -71,6 +71,34 @@
 
 3. checkered
 : a cuadros
+
+4. blotches
+: manchas
+
+5. brittle
+: frágil
+
+6. laddle
+: cucharón
+
+7. trickles
+: chorritos
+
+8. icicles
+: carámbanos
+
+9. slag
+: escoria
+
+10. crusting
+: formando costras, a hard outer layer
+
+10. ridges
+: cresta, a long narrow hilltop
+
+---
+
+
 
 
 
