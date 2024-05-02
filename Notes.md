@@ -25,3 +25,12 @@ He stopped. He shrugged and smiled– he was alive for a moment and it was the s
 [^4]: to offer you the job
 
 [^5]: Part 1, Chapter 1, Page 32.
+
+---
+
+# Chapter 2 - The Chain
+
+> An oncoming freight train hid the view, filling the windows with a rushing smear of noise. In a sudden break above the flat cars, the passengers saw distant structures under a faint, reddish glow in the sky; the glow moved in regular spasms, as if the structures were breathing.
+
+> The metal came rising to the top of the ladle and went running over with arrogant prodigality. Then the blinding white trickles turned to glowing brown, and in one more instant they were black icicles of metal, starting to crumble off. The slag was crusting in thick, brown ridges that looked like the crust of the earth. As if the crust grew thicker, a few craters broke open, with the white liquid still boiling within.
+
