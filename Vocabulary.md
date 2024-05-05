@@ -78,7 +78,7 @@
 5. brittle
 : frágil
 
-6. laddle
+6. ladle
 : cucharón
 
 7. trickles
@@ -93,8 +93,47 @@
 10. crusting
 : formando costras, a hard outer layer
 
-10. ridges
+11. ridges
 : cresta, a long narrow hilltop
+
+12. rumble
+: retumbar
+
+13. grinned
+: sonrió
+
+14. scattered
+: disperso
+
+15. snatched
+: arrebatado
+
+16. self-racking
+: auto-infligida
+
+17. wringing
+: lacerante, hiriente
+
+18. rocky ledge
+: cama de roca
+
+19. despised
+: despreció
+
+20. pointless
+: inútil
+
+21. scalding
+: escaldada
+
+22. temple
+: frente
+
+23. slumped
+: desplomado
+
+24. grimmy
+: mugriento
 
 ---
 
