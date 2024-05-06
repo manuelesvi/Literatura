@@ -144,6 +144,8 @@
 27. spurned
 : despreciado
 
+28. tinge
+: matiz
 
 ---
 
