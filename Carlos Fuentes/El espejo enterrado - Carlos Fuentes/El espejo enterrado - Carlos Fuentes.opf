@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">83</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e0d5bf50-a9a2-44bd-acb1-9703a6e9d553</dc:identifier>
+        <dc:title>El espejo enterrado</dc:title>
+        <dc:creator opf:file-as="Fuentes, Carlos" opf:role="aut">Fuentes, Carlos</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.7.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1992-10-27T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Este ensayo del gran autor mexicano fue concebido originalmente como guión para un programa de televisión y más tarde se convirtió en un ensayo indispensable para mirar y analizar con lucidez la historia a partir del descubrimiento de América. El encuentro de dos mundos, como ha sido llamado, también revistió el carácter de una cruenta conquista militar y del nacimiento de una nueva cultura con raíz aborigen y española. El autor reflexiona sobre las magníficas civilizaciones prehispánicas, sobre los soldados y sacerdotes que llegaron a América, sobre la conquista y la colonización, para finalmente fijar la mirada en el presente. A lo largo de esta crónica va surgiendo la imagen de un vasto mundo cultural hispánico, en el cual los pueblos de América y España pueden reconocer una identidad, una historia y un destino comunes.&lt;/p&gt;</dc:description>
+        <dc:identifier opf:scheme="LEIDO">0</dc:identifier>
+        <dc:identifier opf:scheme="NUMLETRAS">0</dc:identifier>
+        <dc:identifier opf:scheme="FAVORITOS">0</dc:identifier>
+        <dc:identifier opf:scheme="CORREGIDO">0</dc:identifier>
+        <dc:identifier opf:scheme="PAPYREFB2ID">28879</dc:identifier>
+        <dc:identifier opf:scheme="ABANDONADO">0</dc:identifier>
+        <dc:identifier opf:scheme="MAQUETACION">QualityEbook v0.60</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Historia</dc:subject>
+        <dc:subject>Humanidades</dc:subject>
+        <meta content="{&quot;Fuentes, Carlos&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-09-27T13:26:00.631000+00:00" name="calibre:timestamp"/>
+        <meta content="espejo enterrado, El" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="espejo enterrado, El - Fuentes, Carlos.jpg" title="Portada" type="cover"/>
+    </guide>
+</package>
