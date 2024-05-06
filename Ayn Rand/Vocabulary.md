@@ -135,6 +135,16 @@
 24. grimmy
 : mugriento
 
+25. slum
+: barrio bajo
+
+26. trenchcoat
+: gabardina
+
+27. spurned
+: despreciado
+
+
 ---
 
 
