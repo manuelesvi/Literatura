@@ -53,3 +53,4 @@ He stopped. He shrugged and smiled– he was alive for a moment and it was the s
 > “You’re not sorry. You could’ve been here if you’d made the effort. But when did you ever make an effort for anybody but yourself? You’re not interested in any of us or in anything we do. You think if you pay the bills, that’s enough, don’t you? Money! That’s all you know. And all you give us is money. Have you ever given us any time?
 
 > They were all watching his face; if they expected a look of guilt, what they saw, instead, was a faint smile of amusement. She could not have intended this as a trap, he thought, because he could escape it so easily, by refusing to accept any blame for his forgetfulness and by leaving her spurned; she knew that his feeling for her was her only weapon. Her motive, he thought, was a proudly indirect attempt to test his feeling and to confess her own . . . He had to let her win, he thought, because she had thrown herself upon his mercy.
+
