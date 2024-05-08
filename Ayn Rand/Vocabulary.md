@@ -147,6 +147,72 @@
 28. tinge
 : matiz
 
+29. girders
+: vigas
+
+30. soup kettles
+: ollas para sopa
+
+31. conceited
+: engreído, presumido
+
+32. brat
+: mocoso
+
+33. riddle
+: acertijo
+
+34. ruthless
+: despiadado
+
+35. hunched
+: encorvado
+
+36. plumpish
+: regordete
+
+37. wistful
+: melancólico
+
+38. clung
+: se aferró
+
+39. a crummy lot
+: un lote de mala calidad
+
+40. sullenly
+: hoscamente
+
+41. speck
+: partícula
+
+42. whim
+: capricho
+
+43. grinning
+: sonriendo
+
+44. blatant
+: evidente
+
+45. wretchedness
+: miseria
+
+46. leaden
+: de plomo
+
+47. lilting
+: cadenciosa
+
+48. loathing
+: aversión
+
+49. alms
+: limosna
+
+50. bondage
+: esclavitud
+
 ---
 
 
