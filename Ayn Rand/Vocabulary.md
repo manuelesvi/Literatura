@@ -215,8 +215,44 @@
 
 ---
 
+## Chapter 3: The Top and The Bottom
 
+1. masonry
+: albañilería, stonework
 
+2. drawled
+: arrastrando las palabras
 
+3. slits
+: rendijas
 
+4. swindle
+: estafa
+
+5. shrill
+: estridente
+
+6. inasmuch
+: en la medida
+
+7. hastily
+: precipitadamente
+
+8. blight
+: plaga
+
+9. unbridled
+: desenfrenada
+
+10. snip
+: recortar
+
+11. ungodly
+: impío
+
+12. sighed
+: suspiro
+
+13. shudder
+: escalofrío
 

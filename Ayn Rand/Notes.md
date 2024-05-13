@@ -84,3 +84,10 @@ He stopped. He shrugged and smiled– he was alive for a moment and it was the s
 [^21] p. 42
 [^22] p. 47
 [^23] p. 48
+
+# Chapter 3 - The Top and The Bottom
+
+> Disunity, that’s the trouble. It’s my absolute opinion that in our complex industrial society, no business enterprise can succeed without sharing the burden of the problems of other enterprises.[^23]
+
+
+[^23] p. 24
