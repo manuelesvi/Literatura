@@ -2,8 +2,6 @@
 
 ## Chapter 1: The Theme
 
-### Definition List
-
 1. chuckled
 : se rió entre dientes
 
@@ -64,8 +62,6 @@
 ---
 
 ## Chapter 2: The Chain
-
-### Definition List
 
 1. smear
 : calumnia
@@ -220,8 +216,6 @@
 ---
 
 ## Chapter 3: The Top and The Bottom
-
-### Definition List
 
 1. masonry
 : albañilería, stonework
