@@ -87,7 +87,27 @@ He stopped. He shrugged and smiled– he was alive for a moment and it was the s
 
 # Chapter 3 - The Top and The Bottom
 
-> Disunity, that’s the trouble. It’s my absolute opinion that in our complex industrial society, no business enterprise can succeed without sharing the burden of the problems of other enterprises.[^23]
+> Disunity, that’s the trouble. It’s my absolute opinion that in our complex industrial society, no business enterprise can succeed without sharing the burden of the problems of other enterprises.[^24]
 
+> “It’s been proved that every business depends upon every other business.” said Orren Boyle. “So everybody ought to share the burdens of everybody else.”[^25]
 
-[^23] p. 24
+> “My purpose”, said Orren Boyle, “is the preservation of a free economy. It’s generally conceded that free economy is now on trial. Unless it proves its social value and assumes its social responsibilities, the people won’t stand for it. If it doesn’t develop a public spirit, it’s done for, make no mistake about that.”[^26]
+
+> The only justification of private property is public service.[^27]
+
+> “When everybody agrees,” . . . “when people are unanimous, how does one man dare to dissent? By what right? That’s what I want to know– by what right?[^28]
+
+> “The public has a vital stake in natural resources, Jim, such as iron ore. The public can’t remain indifferent to reckless, selfish waste by an anti-social individual. After all, private property is a trusteeship held for the benefit of society as a whole.”[^29]
+
+> “There’s nothing more destructive than a monopoly, on the one hand. On the other, there’s the blight of unbridled competition . . . The proper course is always, in my opinion, in the middle. So it is, I think, the duty of society to snip the extremes, now isn’t it?”[^30]
+
+> “If everybody could pull for a common purpose, then nobody would have to be hurt!”[^31]
+
+[^24] p. 48
+[^25] p. 49
+[^26] p. 49
+[^27] p. 49
+[^28] p. 49
+[^29] p. 50
+[^30] p. 50
+[^31] p. 51

@@ -256,3 +256,97 @@
 13. shudder
 : escalofrío
 
+14. slender
+: calumnia
+
+15. feeble
+: débil
+
+16. measly
+: miserable
+
+17. gag
+: chiste
+
+18. muttered
+: murmuró
+
+19. strenuously
+: enérgicamente
+
+20. fumbled
+: torpemente
+
+21. longing
+: anhelo
+
+22. parchment
+: pergamino
+
+23. sundry
+: diversas
+
+24. numbed
+: entumecido
+
+25. aghast
+: espantada
+
+26. hurtling
+: precipitándose
+
+27. embankment
+: pendiente
+
+28. blazing
+: flameante
+
+29. scraggly
+: desaseado
+
+30. loathing
+: aborrecimiento
+
+31. clattering
+: ruidoso
+
+32. glistening
+: brillante
+
+33. disheveled
+: despeinado
+
+34. quarrels
+: peleas
+
+35. looters
+: saqueadores
+
+36. mahogany
+: caoba
+
+37. clapboard
+: tablilla
+
+38. eloped
+: se fugó
+
+39. ragged
+: harapiento
+
+40. gaunt
+: demacrado
+
+41. feeble
+: débil
+
+42. slanting
+: inclinado
+
+43. pleading
+: súplicas
+
+---
+
+## Chapter 4: The Immovable Movers
+
