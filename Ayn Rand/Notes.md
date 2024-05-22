@@ -87,21 +87,36 @@ He stopped. He shrugged and smiled– he was alive for a moment and it was the s
 
 # Chapter 3 - The Top and The Bottom
 
-> Disunity, that’s the trouble. It’s my absolute opinion that in our complex industrial society, no business enterprise can succeed without sharing the burden of the problems of other enterprises.[^24]
+> Disunity, that’s the trouble. It’s my absolute opinion that in our complex industrial society, no business enterprise can succeed without sharing the burden of the problems of other enterprises. [^24]
 
-> “It’s been proved that every business depends upon every other business.” said Orren Boyle. “So everybody ought to share the burdens of everybody else.”[^25]
+> “It’s been proved that every business depends upon every other business.” said Orren Boyle. “So everybody ought to share the burdens of everybody else.” [^25]
 
-> “My purpose”, said Orren Boyle, “is the preservation of a free economy. It’s generally conceded that free economy is now on trial. Unless it proves its social value and assumes its social responsibilities, the people won’t stand for it. If it doesn’t develop a public spirit, it’s done for, make no mistake about that.”[^26]
+> “My purpose”, said Orren Boyle, “is the preservation of a free economy. It’s generally conceded that free economy is now on trial. Unless it proves its social value and assumes its social responsibilities, the people won’t stand for it. If it doesn’t develop a public spirit, it’s done for, make no mistake about that.” [^26]
 
-> The only justification of private property is public service.[^27]
+> The only justification of private property is public service. [^27]
 
-> “When everybody agrees,” . . . “when people are unanimous, how does one man dare to dissent? By what right? That’s what I want to know– by what right?[^28]
+> “When everybody agrees,” . . . “when people are unanimous, how does one man dare to dissent? By what right? That’s what I want to know– by what right? [^28]
 
-> “The public has a vital stake in natural resources, Jim, such as iron ore. The public can’t remain indifferent to reckless, selfish waste by an anti-social individual. After all, private property is a trusteeship held for the benefit of society as a whole.”[^29]
+> “The public has a vital stake in natural resources, Jim, such as iron ore. The public can’t remain indifferent to reckless, selfish waste by an anti-social individual. After all, private property is a trusteeship held for the benefit of society as a whole.” [^29]
 
-> “There’s nothing more destructive than a monopoly, on the one hand. On the other, there’s the blight of unbridled competition . . . The proper course is always, in my opinion, in the middle. So it is, I think, the duty of society to snip the extremes, now isn’t it?”[^30]
+> “There’s nothing more destructive than a monopoly, on the one hand. On the other, there’s the blight of unbridled competition . . . The proper course is always, in my opinion, in the middle. So it is, I think, the duty of society to snip the extremes, now isn’t it?” [^30]
 
-> “If everybody could pull for a common purpose, then nobody would have to be hurt!”[^31]
+> “If everybody could pull for a common purpose, then nobody would have to be hurt!” [^31]
+
+> “I can’t be expected to buck the trend of the whole world, can I?” . . . “You can’t Mr. Larkin,” said Wesley Mouch. “You and I are not to be blamed, if we–” [^32]
+
+> “Speaking of progressive policies, Orren,” said Taggart, “you might ask yourself whether at a time of transportation shortages, when so many railroads are going bankrupt and large areas are left without rail service, whether it is in the public interest to tolerate wasteful duplication of services and the destructive, dog-eat-dog competition of newcomers in territories where established companies have historical priority.” [^33]
+
+> “It all depends,” James Taggart answered slowly, “on knowing the people who make it possible . . . That’s what has to be known– who makes it possible” [^34]
+
+> It was only in the first few years that she felt herself screaming silently, at times, for a glimpse of human ability, a single glimpse of clean, hard, radiant competence. She had fits of tortured longing for a friend or an enemy with a mind better than her own. But the longing passed. She had a job to do. She did not have time to feel the pain; not often. [^35]
+
+> In a corner of the concourse, by the main entrance, there was a small newsstand. The owner, a quiet, courteous old man with an air of breeding, had stood behind his counter for twenty years. He had owned a cigarette factory once, but it had gone bankrupt . . . He had a hobby which was his only pleasure; he gathered cigarettes from all over the world for his private collection; he knew every brand made or that had ever been made. Dagny liked to stop at his newsstand on her way out. He seemed to be part of the Taggart Terminal, like an old watchdog too feeble to protect it, but reassuring by the loyalty of his presence. He liked to see her coming, because it amused him to think that he alone knew the importance of the young woman in a sports coat and a slanting hat, who came hurrying anonymously through the crowd. [^36]
+
+> “Do they ever think?” she asked involuntarily, and stopped; the question was her one personal torture and she did not want to discuss it. 
+He said, “I don’t like the thing that’s happening to people, Miss Taggart.”
+“What?”
+“I don’t know. But I’ve watched them here for twenty years and I’ve seen the change. They used to rush through here, and it was wonderful to watch, it was the hurry of men who knew where they were going and were eager to get there. Now they are hurrying because they are afraid. It’s not a purpose that drives them, it’s fear. They’re not going anywhere, they’re escaping. And I don’t think they know what it is that they want to escape. They don’t look at one another. They jerk when brushed against. They smile too much, but it’s an ugly kind of smiling: it’s not joy, it’s pleading. I don’t know what it is that’s happening to the world.” He shrugged. “Oh, well, who is John Galt?” [^37]
 
 [^24] p. 48
 [^25] p. 49
@@ -111,3 +126,9 @@ He stopped. He shrugged and smiled– he was alive for a moment and it was the s
 [^29] p. 50
 [^30] p. 50
 [^31] p. 51
+[^32] p. 51
+[^33] p. 51
+[^34] p. 53
+[^35] p. 56
+[^36] p. 63-64
+[^37] p. 64
