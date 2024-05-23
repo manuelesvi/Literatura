@@ -113,10 +113,12 @@ He stopped. He shrugged and smiled– he was alive for a moment and it was the s
 
 > In a corner of the concourse, by the main entrance, there was a small newsstand. The owner, a quiet, courteous old man with an air of breeding, had stood behind his counter for twenty years. He had owned a cigarette factory once, but it had gone bankrupt . . . He had a hobby which was his only pleasure; he gathered cigarettes from all over the world for his private collection; he knew every brand made or that had ever been made. Dagny liked to stop at his newsstand on her way out. He seemed to be part of the Taggart Terminal, like an old watchdog too feeble to protect it, but reassuring by the loyalty of his presence. He liked to see her coming, because it amused him to think that he alone knew the importance of the young woman in a sports coat and a slanting hat, who came hurrying anonymously through the crowd. [^36]
 
-> “Do they ever think?” she asked involuntarily, and stopped; the question was her one personal torture and she did not want to discuss it. 
+>>> 
+“Do they ever think?” she asked involuntarily, and stopped; the question was her one personal torture and she did not want to discuss it.
 He said, “I don’t like the thing that’s happening to people, Miss Taggart.”
 “What?”
 “I don’t know. But I’ve watched them here for twenty years and I’ve seen the change. They used to rush through here, and it was wonderful to watch, it was the hurry of men who knew where they were going and were eager to get there. Now they are hurrying because they are afraid. It’s not a purpose that drives them, it’s fear. They’re not going anywhere, they’re escaping. And I don’t think they know what it is that they want to escape. They don’t look at one another. They jerk when brushed against. They smile too much, but it’s an ugly kind of smiling: it’s not joy, it’s pleading. I don’t know what it is that’s happening to the world.” He shrugged. “Oh, well, who is John Galt?” [^37]
+>>>
 
 [^24] p. 48
 [^25] p. 49
