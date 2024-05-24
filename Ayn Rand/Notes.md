@@ -120,6 +120,17 @@ He said, “I don’t like the thing that’s happening to people, Miss Taggart.
 “I don’t know. But I’ve watched them here for twenty years and I’ve seen the change. They used to rush through here, and it was wonderful to watch, it was the hurry of men who knew where they were going and were eager to get there. Now they are hurrying because they are afraid. It’s not a purpose that drives them, it’s fear. They’re not going anywhere, they’re escaping. And I don’t think they know what it is that they want to escape. They don’t look at one another. They jerk when brushed against. They smile too much, but it’s an ugly kind of smiling: it’s not joy, it’s pleading. I don’t know what it is that’s happening to the world.” He shrugged. “Oh, well, who is John Galt?” [^37]
 >>>
 
+# Chapter 4 - The Immovable Movers
+
+> She felt a dim touch of anxiety. She was back from a trip to the plant of the United Locomotive Works in New Jersey, where she had gone to see the president of the company in person. She had learned nothing: neither the reason for the delays nor any indication for the date when the Diesel engines would be produced. The president of the company had talked to her for two hours. But none of his answers had connected to any of her questions. His manner had conveyed a peculiar note of condescending reproach whenever she attempted to make the conversation specific, as if she were giving proof of ill-breeding by breaking some unwritten code known to everyone else.
+
+>>>
+She turned to a phonograph and put on a record of the music of Richard Halley.
+
+It was his Fourth Concerto, the last work he had written. The crash of its opening chords swept the sights of the streets away from her mind. The Concerto was a great cry of rebellion. It was a “No” flung at some vast process of torture, a denial of suffering, a denial that held the agony of the struggle to break free. The sounds were like a voice saying: There is no necessity for pain –why, then, is the worst pain reserved for those who will not accept its necessity?--we who hold the love and the secret of joy, to what punishment have we been sentenced for it, and by whom? . . . The sounds of torture became defiance, the statement of agony because a hymn to a distant vision for whose sake anything was worth enduring, even this. It was the song of rebellion–and of a desperate quest.
+>>>
+
+
 [^24] p. 48
 [^25] p. 49
 [^26] p. 49
