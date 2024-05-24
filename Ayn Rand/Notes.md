@@ -130,6 +130,9 @@ She turned to a phonograph and put on a record of the music of Richard Halley.
 It was his Fourth Concerto, the last work he had written. The crash of its opening chords swept the sights of the streets away from her mind. The Concerto was a great cry of rebellion. It was a “No” flung at some vast process of torture, a denial of suffering, a denial that held the agony of the struggle to break free. The sounds were like a voice saying: There is no necessity for pain –why, then, is the worst pain reserved for those who will not accept its necessity?--we who hold the love and the secret of joy, to what punishment have we been sentenced for it, and by whom? . . . The sounds of torture became defiance, the statement of agony because a hymn to a distant vision for whose sake anything was worth enduring, even this. It was the song of rebellion–and of a desperate quest.
 >>>
 
+> She wandered aimlessly about the room. “I don’t want to go home,” she said with no particular feeling. “I hate morning. Here’s another day and nothing to do. I’ve got a tea session on for this afternoon at Liz Blane’s. Oh well, it might be fun, because Liz is a bitch.” She picked up a glass and swallowed the stale remnant of a drink. “Why don’t you have them repair your air-conditioner? This place smells.
+
+> The nature of their relationship had the same quality. There was no passion in it, no desire, no actual pleasure, not even a sense of shame. To them, the act of sex was neither joy nor sin. It meant nothing. They had heard that men and women were supposed to sleep together, so they did.
 
 [^24] p. 48
 [^25] p. 49

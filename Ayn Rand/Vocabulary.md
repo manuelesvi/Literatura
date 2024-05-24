@@ -374,3 +374,17 @@
 8. vapid
 : dull, insípidos
 
+9. girdle
+: faja
+
+10. gargling
+: gárgaras
+
+11. aimlessly
+: sin rumbo
+
+12. stunt
+: atrofiar
+
+13. snap
+: 
