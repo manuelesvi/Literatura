@@ -352,3 +352,25 @@
 
 1. prairie
 : pradera
+
+2. streech
+: golpes
+
+3. gown
+: vestido
+
+4. slovenly
+: descuidada
+
+5. drudge
+: esclava
+
+6. sly
+: astuto
+
+7. prow
+: proa
+
+8. vapid
+: dull, insípidos
+
