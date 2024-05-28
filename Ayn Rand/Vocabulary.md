@@ -387,4 +387,23 @@
 : atrofiar
 
 13. snap
-: 
+: quebrar
+
+14. superannuated
+: jubilada
+
+15. sagging
+: hundido
+
+16. phony
+: falso
+
+17. outwitted
+: burlado
+
+18. slicked
+: empapado
+
+19. abide
+: acatar
+
