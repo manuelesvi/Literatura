@@ -407,3 +407,36 @@
 19. abide
 : acatar
 
+20. blighted
+: arruinad
+
+21. esprit de corps
+: espíritu de equipo
+
+22. encroached
+: invadido
+
+23. loitering
+: holgazaneando
+
+24. bulky
+: voluminosa
+
+25. charwoman
+: mujer de limpieza
+
+26. hailed
+: llamó a gritos
+
+27. fumbled
+: manoseó
+
+28. meekly
+: dócilmente
+
+29. bewildered
+: desconcertada
+
+30. shrill
+: estridente
+
