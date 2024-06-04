@@ -440,3 +440,8 @@
 30. shrill
 : estridente
 
+31. seldom
+: rara vez
+
+32. snide
+: sarcástico
