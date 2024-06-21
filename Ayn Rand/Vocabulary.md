@@ -481,5 +481,11 @@
 6. heirs
 : herederos
 
-7. staggering clumsy
-: tambaleaba torpemente
+7. staggering clumsily
+: tambaleándose torpemente
+
+8. its wake
+: su estela
+
+9. shivering
+: temblores
