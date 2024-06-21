@@ -445,3 +445,41 @@
 
 32. snide
 : sarcástico
+
+33. moocher
+: gorrón
+
+34. sharecropper
+: partidario
+
+35. wearily
+: cansadamente
+
+36. clutter up
+: desordenan
+
+37. flattered
+: halagado
+
+## Chapter 5: The Climax of The D'Anconias
+
+1. blatantly
+: descaradamente
+
+2. deluded
+: engañado
+
+3. murky
+: tenebrosa
+
+4. birch
+: abedul
+
+5. stern
+: severo
+
+6. heirs
+: herederos
+
+7. staggering clumsy
+: tambaleaba torpemente
