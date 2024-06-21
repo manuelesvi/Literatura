@@ -489,3 +489,17 @@
 
 9. shivering
 : temblores
+
+10. choking with hiccoughs
+: ahogándose con hipo
+
+10. scattered
+: dispersos
+
+11. crumpled
+: estropeadas hojas
+
+12. heirs
+: herederos
+
+13. 

@@ -117,22 +117,8 @@ He stopped. He shrugged and smiled– he was alive for a moment and it was the s
 “Do they ever think?” she asked involuntarily, and stopped; the question was her one personal torture and she did not want to discuss it.
 He said, “I don’t like the thing that’s happening to people, Miss Taggart.”
 “What?”
-“I don’t know. But I’ve watched them here for twenty years and I’ve seen the change. They used to rush through here, and it was wonderful to watch, it was the hurry of men who knew where they were going and were eager to get there. Now they are hurrying because they are afraid. It’s not a purpose that drives them, it’s fear. They’re not going anywhere, they’re escaping. And I don’t think they know what it is that they want to escape. They don’t look at one another. They jerk when brushed against. They smile too much, but it’s an ugly kind of smiling: it’s not joy, it’s pleading. I don’t know what it is that’s happening to the world.” He shrugged. “Oh, well, who is John Galt?” [^37]
+“I don’t know. But I’ve watched them here for twenty years and I’ve seen the change. They used to rush through here, and it was wonderful to watch, it was the hurry of men who knew where they were going and were eager to get there. Now they are hurrying because they are afraid. It’s not a purpose that drives them, it’s fear. They’re not going anywhere, they’re escaping. And I don’t think they know what it is that they want to escape. They don’t look at one another. They jerk when brushed against. They smile too much, but it’s an ugly kind of smiling: it’s not joy, it’s pleading[^37]. I don’t know what it is that’s happening to the world.” He shrugged. “Oh, well, who is John Galt?” [^38]
 >>>
-
-# Chapter 4 - The Immovable Movers
-
-> She felt a dim touch of anxiety. She was back from a trip to the plant of the United Locomotive Works in New Jersey, where she had gone to see the president of the company in person. She had learned nothing: neither the reason for the delays nor any indication for the date when the Diesel engines would be produced. The president of the company had talked to her for two hours. But none of his answers had connected to any of her questions. His manner had conveyed a peculiar note of condescending reproach whenever she attempted to make the conversation specific, as if she were giving proof of ill-breeding by breaking some unwritten code known to everyone else.
-
->>>
-She turned to a phonograph and put on a record of the music of Richard Halley.
-
-It was his Fourth Concerto, the last work he had written. The crash of its opening chords swept the sights of the streets away from her mind. The Concerto was a great cry of rebellion. It was a “No” flung at some vast process of torture, a denial of suffering, a denial that held the agony of the struggle to break free. The sounds were like a voice saying: There is no necessity for pain –why, then, is the worst pain reserved for those who will not accept its necessity?--we who hold the love and the secret of joy, to what punishment have we been sentenced for it, and by whom? . . . The sounds of torture became defiance, the statement of agony because a hymn to a distant vision for whose sake anything was worth enduring, even this. It was the song of rebellion–and of a desperate quest.
->>>
-
-> She wandered aimlessly about the room. “I don’t want to go home,” she said with no particular feeling. “I hate morning. Here’s another day and nothing to do. I’ve got a tea session on for this afternoon at Liz Blane’s. Oh well, it might be fun, because Liz is a bitch.” She picked up a glass and swallowed the stale remnant of a drink. “Why don’t you have them repair your air-conditioner? This place smells.
-
-> The nature of their relationship had the same quality. There was no passion in it, no desire, no actual pleasure, not even a sense of shame. To them, the act of sex was neither joy nor sin. It meant nothing. They had heard that men and women were supposed to sleep together, so they did.
 
 [^24] p. 48
 [^25] p. 49
@@ -147,4 +133,60 @@ It was his Fourth Concerto, the last work he had written. The crash of its openi
 [^34] p. 53
 [^35] p. 56
 [^36] p. 63-64
-[^37] p. 64
+[^37] súplicas
+[^38] p. 64
+
+# Chapter 4 - The Immovable Movers
+
+> She felt a dim touch of anxiety. She was back from a trip to the plant of the United Locomotive Works in New Jersey, where she had gone to see the president of the company in person. She had learned nothing: neither the reason for the delays nor any indication for the date when the Diesel engines would be produced. The president of the company had talked to her for two hours. But none of his answers had connected to any of her questions. His manner had conveyed a peculiar note of condescending reproach whenever she attempted to make the conversation specific, as if she were giving proof of ill-breeding by breaking some unwritten code known to everyone else. [^39]
+
+>>>
+She turned to a phonograph and put on a record of the music of Richard Halley.
+
+It was his Fourth Concerto, the last work he had written. The crash of its opening chords swept the sights of the streets away from her mind. The Concerto was a great cry of rebellion. It was a “No” flung at some vast process of torture, a denial of suffering, a denial that held the agony of the struggle to break free. The sounds were like a voice saying: There is no necessity for pain –why, then, is the worst pain reserved for those who will not accept its necessity?--we who hold the love and the secret of joy, to what punishment have we been sentenced for it, and by whom? . . . The sounds of torture became defiance, the statement of agony because a hymn to a distant vision for whose sake anything was worth enduring, even this. It was the song of rebellion–and of a desperate quest. [^40]
+>>>
+
+> She wandered aimlessly about the room. “I don’t want to go home,” she said with no particular feeling. “I hate morning. Here’s another day and nothing to do. I’ve got a tea session on for this afternoon at Liz Blane’s. Oh well, it might be fun, because Liz is a bitch.” She picked up a glass and swallowed the stale remnant of a drink. “Why don’t you have them repair your air-conditioner? This place smells. [^41]
+
+> The nature of their relationship had the same quality. There was no passion in it, no desire, no actual pleasure, not even a sense of shame. To them, the act of sex was neither joy nor sin. It meant nothing. They had heard that men and women were supposed to sleep together, so they did. [^42]
+
+>>>
+“I’m glad to report, however, that I foresaw the possibility of such events and took every precaution to protect the interests of Taggart Transcontinental. Some months ago, I instructed our Operating Department to cut the schedule of the San Sebastián Line down to a single train a day, and to remove from it our best motive power and rolling stock, as well as every piece of equipment that could be moved. The Mexican government was able to seize nothing but a few wooden cars and one superannuated locomotive. . . I would suggest, therefore, that we request the resignation of Mr. Clarence Eddington, our economic consultant, who recommended the construction of the San Sebastián Line, and of Mr. Jules Mott, our representative in Mexico City.”
+
+The men sat around a long table, listening. They did not think about what they would have to do, but of what they would have to say to the men they represented. Taggart’s speech gave them what they needed. [^43]
+>>>
+
+> The National Alliance of Railroads was an organization formed, it was claimed, to protect the welfare of the railroad industry. This was to be achieved by developing methods of co-operation for a common purpose; this was to be achieved by the pledge of every member to subordinate his own interests to those of the industry as a whole; the interests of the industry as a whole were to be determined by a majority vote, and every member was committed to abide by any decision the majority chose to make. [^44]
+
+>>>
+“Against whom is this Alliance being organized?”… “it’s against shippers or supply manufacturers or anyone who might try to take advantage of us. Against whom is any union organized?”
+
+When the Anti-dog-eat-dog Rule was offered to the vote of the full membership of the National Alliance of Railroads at its annual meeting, it was the first mention of this Rule in public. But all the members had heard of it; it had been discussed privately for a long time, and more insistently in the last few months. The men who sat at the large hall of the meeting were the presidents of the railroads. They did not like the Anti-dog-eat-dog Rule; they had hoped it would never be brought up. But when it was brought up, they voted for it. [^45]
+>>>
+
+> The man who entered was a stranger. He was young, tall, and something about him suggested violence, though she could not say what it was, because the first trait that one grasped about him was a quality of self-control that seemed almost arrogant. He had dark eyes, disheveled hair, and his clothes were expensive, but worn as if he did not care or notice what he wore.
+“Ellis Wyatt”, he said in self-introduction. [^46]
+
+> “You can listen to an ultimatum” … “If the snide stunt you people perpetrated on the Phoenix-Durango was done for the purpose of saving yourself from the necessity of effort, this is to give you notice that you will not get away with it. I made no demands on you when you could not give me the kind of service I needed. I found someone who could. Now you wish me to force me to deal with you. You expect to dictate terms by giving me no choice. You expect to hold my business down to the level of your incompetence. This is to tell you that you have miscalculated.” … “Those who wish to deal with me, must do so in my terms or not at all. I do not make terms with incompetence.” [^47]
+
+> “That's right. They won’t. When I heard about that Anti-dog-eat-dog business, it made me sick. But don’t worry about the goddamn bastards.” The two words sounded shockingly violent, because his face and voice remained calm. “You and I will always be there to save the country from the consequences of their actions.” He got up; he said, pacing the office, “Colorado isn’t going to be stopped. You’ll pull it through. Then Dan Conway will be back, and others. All that lunacy is temporary. It can’t last. It’s demented, so it has to defeat itself. You and I will just have to work a little harder for a while, that’s all.” [^48]
+
+[^39] p. 66
+[^40] p. 69
+[^41] p. 72
+[^42] p. 72
+[^43] p. 74
+[^44] p. 75
+[^45] p. 75
+[^46] p. 81
+[^47] p. 82
+[^48] p. 85
+
+# Chapter 5 - The Climax of The D'Anconias
+
+Dagny and Eddie spent their winters trying to master some new skill, in order to astonish Francisco and beat him, for once. They never succeeded. When they showed him how to hit a ball with a bat, a game he had never played before, he watched them for a few minutes, then said. “I think I get the idea. Let me try.” He took the bat and sent the ball flying over a line of oak trees far at the end of the field.
+
+When Jim was given a motorboat for his birthday, they all stood on the river landing, watching the lesson, while an instructor showed Jim how to run it. None of them had ever driven a motorboat before. The sparkling white craft, shaped like a bullet, kept staggering clumsily across the water, its wake a long record of shivering[^49], its motor choking with hiccoughs, while the instructor, seated beside him, kept seizing the wheel out of Jim’s hands. For no apparent reason, Jim raised his head suddenly and yelled at Francisco. “Do you think you can do it any better?” “I can do it.” “Try it!” [^50]
+
+[^49] su estela, un largo rastro tembloroso
+[^50] p. 91-92
