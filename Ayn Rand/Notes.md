@@ -188,5 +188,8 @@ Dagny and Eddie spent their winters trying to master some new skill, in order to
 
 When Jim was given a motorboat for his birthday, they all stood on the river landing, watching the lesson, while an instructor showed Jim how to run it. None of them had ever driven a motorboat before. The sparkling white craft, shaped like a bullet, kept staggering clumsily across the water, its wake a long record of shivering[^49], its motor choking with hiccoughs, while the instructor, seated beside him, kept seizing the wheel out of Jim’s hands. For no apparent reason, Jim raised his head suddenly and yelled at Francisco. “Do you think you can do it any better?” “I can do it.” “Try it!” [^50]
 
+The heirs of Sebastián d’Anconia had been an unbroken line of firsts sons, who knew how to bear his name. It was a tradition of the family that the man to disgrace them would be the heir who died, leaving the d’Anconia fortune no greater than he had received it. Throughout the generations, that disgrace had not come. An argentinian legend said that the hand of a d’Anconia had the miraculous power of the saints–only it was not the power to heal but the power to produce. [^51]
+
 [^49] su estela, un largo rastro tembloroso
 [^50] p. 91-92
+[^51] p. 92
