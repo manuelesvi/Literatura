@@ -502,4 +502,12 @@
 12. heirs
 : herederos
 
-13. 
+13. derisively
+: burlonamente
+
+14. seldom
+: rara vez
+
+15. conceited
+: engreído
+
