@@ -182,17 +182,35 @@ When the Anti-dog-eat-dog Rule was offered to the vote of the full membership of
 
 > Sebastián d’Anconia, his ancestor, had left Spain many centuries ago, at a time when Spain was the most powerful country on earth and his was one of Spain’s most proudest figures. He left, because the lord of Inquisition did not approve of his manner of thinking and suggested, at a court banquet, that he change it. Sebastián d’Anconia threw the contents of his wine glass at the face of the lord of Inquisition, and escaped before he could be seized. He left behind his fortune, his estate, his marble palace and the girl he loved–and he sailed to a new world.[^49]
 
-> Dagny and Eddie spent their winters trying to master some new skill, in order to astonish Francisco and beat him, for once. They never succeeded. When they showed him how to hit a ball with a bat, a game he had never played before, he watched them for a few minutes, then said. “I think I get the idea. Let me try.” He took the bat and sent the ball flying over a line of oak trees far at the end of the field.[^50]
+>>>
+Dagny and Eddie spent their winters trying to master some new skill, in order to astonish Francisco and beat him, for once. They never succeeded. When they showed him how to hit a ball with a bat, a game he had never played before, he watched them for a few minutes, then said. “I think I get the idea. Let me try.” He took the bat and sent the ball flying over a line of oak trees far at the end of the field.
 
-> When Jim was given a motorboat for his birthday, they all stood on the river landing, watching the lesson, while an instructor showed Jim how to run it. None of them had ever driven a motorboat before. The sparkling white craft, shaped like a bullet, kept staggering clumsily across the water, its wake a long record of shivering[^51], its motor choking with hiccoughs, while the instructor, seated beside him, kept seizing the wheel out of Jim’s hands. For no apparent reason, Jim raised his head suddenly and yelled at Francisco. “Do you think you can do it any better?” “I can do it.” “Try it!” [^52]
+When Jim was given a motorboat for his birthday, they all stood on the river landing, watching the lesson, while an instructor showed Jim how to run it. None of them had ever driven a motorboat before. The sparkling white craft, shaped like a bullet, kept staggering clumsily across the water, its wake a long record of shivering[^50], its motor choking with hiccoughs, while the instructor, seated beside him, kept seizing the wheel out of Jim’s hands. For no apparent reason, Jim raised his head suddenly and yelled at Francisco. “Do you think you can do it any better?” “I can do it.” “Try it!”
 
-> The heirs of Sebastián d’Anconia had been an unbroken line of firsts sons, who knew how to bear his name. It was a tradition of the family that the man to disgrace them would be the heir who died, leaving the d’Anconia fortune no greater than he had received it. Throughout the generations, that disgrace had not come. An argentinian legend said that the hand of a d’Anconia had the miraculous power of the saints–only it was not the power to heal but the power to produce.[^53]
+… The boat shot out to the middle of the river, as if fired from a gun. It was streaking away before they grasped what they were seeing … Dagny’s picture of it was three straight lines: its wake, the long shriek of its motor, and the aim of the driver at its wheel.[^51]
+>>>
 
-> Francisco could win any game in any local contest. He never entered contests. He could have ruled the junior country club. He never came within sight of their clubhouse, ignoring their eager attempts to enroll the most famous heir in the world. Dagny and Eddie were his only friends. They could not tell whether they owned him or were owned by him completely; it made no difference; either concept made them happy.[^54]
+> The heirs of Sebastián d’Anconia had been an unbroken line of firsts sons, who knew how to bear his name. It was a tradition of the family that the man to disgrace them would be the heir who died, leaving the d’Anconia fortune no greater than he had received it. Throughout the generations, that disgrace had not come. An argentinian legend said that the hand of a d’Anconia had the miraculous power of the saints–only it was not the power to heal but the power to produce.[^52]
+
+>>>
+He seldom spoke in Francisco’s presence. But he would corner Dagny and he would smile derisively, saying, “All those airs you put on, pretending that you’re an iron woman with a mind of her own! You’re a spineless dishrag, that’s all you are. It’s disgusting, the way you let that conceited punk order you about. He can twist you around his little finger. You haven’t any pride at all. The way you run when he whistles and wait on him! Why don’t you shine his shoes?” “Because he hasn’t told me to,” she answered.
+
+Francisco could win any game in any local contest. He never entered contests. He could have ruled the junior country club. He never came within sight of their clubhouse, ignoring their eager attempts to enroll the most famous heir in the world. Dagny and Eddie were his only friends. They could not tell whether they owned him or were owned by him completely; it made no difference; either concept made them happy.
+
+The three of them set out every morning on adventures of their own kind. Once, an elderly professor of literature, Mrs. Taggart’s friend, saw them on top of a pile in a junk yard, dismantling the carcass of an automobile. He stopped, shook his head and said to Franciso, “A young man of your position ought to spend his time in libraries, absorbing the culture of the world.” “What do you think I’m doing?” asked Francisco.[^53]
+>>>
+
+>>>
+“When I run d’Anconia Copper…“ “I’m studying mining and mineralogy, because I must be ready for the time when I run d’Anconia Copper…” “I’m studying electrical engineering, because power companies are the best customers of d’Anconia Copper…” “I’m studying philosophy, because I’ll need it to protect d’Anconia Copper...”
+
+“Don’t you ever think of anything but d’Anconia Copper?” Jim asked him once.
+
+“No.” [^54]
+>>>
 
 [^49] p. 90
-[^50] p. 91
-[^51] su estela, un largo rastro tembloroso
+[^50] su estela, un largo rastro tembloroso
+[^51] p. 91-92
 [^52] p. 92
-[^53] p. 92
-[^54] p. 93
+[^53] p. 93
+[^54] p. 94

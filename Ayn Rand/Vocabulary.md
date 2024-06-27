@@ -493,21 +493,51 @@
 10. choking with hiccoughs
 : ahogándose con hipo
 
-10. scattered
+11. scattered
 : dispersos
 
-11. crumpled
+12. crumpled
 : estropeadas hojas
 
-12. heirs
+13. heirs
 : herederos
 
-13. derisively
+14. derisively
 : burlonamente
 
-14. seldom
+15. seldom
 : rara vez
 
-15. conceited
+16. conceited
 : engreído
+
+17. wrath
+: ira
+
+18. haughtily
+: altivamente
+
+19. grafter
+: timador
+
+20. mockery
+: burla
+
+21. bonfire
+: hoguera
+
+22. haze
+: bruma
+
+23. knelt
+: se arrodilló
+
+24. torn
+: rasgada
+
+25. sternness
+: severidad
+
+26. aghast
+: espantada
 
