@@ -208,9 +208,22 @@ The three of them set out every morning on adventures of their own kind. Once, a
 “No.”[^54]
 >>>
 
+>>>
+“Good God, Dagny! Do you expect me to be afraid of an object like James?”
+
+It was days later, when they were alone… that she asked:
+“Francisco, what’s the most deprived type of human being?”
+“The man without a purpose.”[^55]
+>>>
+
+> “Dagny, there’s nothing of any importance in life–except how well you do your work. Nothing. Only that. Whatever else you are, will come from that. It’s the only measure of human value. All the codes of ethics they’ll try to ram down your throat are just so much paper money put out by swindlers to fleece people of their virtues. The code of competence is the only system of morality that’s a gold standard. When you grow up, you’ll know what I mean.” [^56]
+
 [^49] p. 90
 [^50] su estela, un largo rastro tembloroso
 [^51] p. 91-92
 [^52] p. 92
 [^53] p. 93
 [^54] p. 94
+[^55] p. 98
+[^56] p. 98
+
