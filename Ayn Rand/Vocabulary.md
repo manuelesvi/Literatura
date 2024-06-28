@@ -565,3 +565,12 @@
 34. handkerchief
 : pañuelo
 
+35. gown
+: vestido
+
+36. preposterous
+: absurdo
+
+37. ruefully
+: tristemente
+
