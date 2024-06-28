@@ -541,3 +541,27 @@
 26. aghast
 : espantada
 
+27. gaily
+: alegremente
+
+28. drivel
+: tonterias
+
+29. quavering belligerance
+: beligerancia temblorosa (combativa)
+
+30. courteously
+: cortésmente
+
+31. wring
+: exprimir
+
+32. swindlers
+: estafadores
+
+33. braced
+: apuntaló
+
+34. handkerchief
+: pañuelo
+

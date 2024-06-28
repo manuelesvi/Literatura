@@ -205,7 +205,7 @@ The three of them set out every morning on adventures of their own kind. Once, a
 
 “Don’t you ever think of anything but d’Anconia Copper?” Jim asked him once.
 
-“No.” [^54]
+“No.”[^54]
 >>>
 
 [^49] p. 90
