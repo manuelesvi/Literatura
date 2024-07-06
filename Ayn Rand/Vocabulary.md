@@ -574,3 +574,30 @@
 37. ruefully
 : tristemente
 
+38. slouched
+: encorvada
+
+39. backhand
+: revés
+
+40. gasps
+: jadeos
+
+41. swiftly
+: rápidamente
+
+42. fluttered
+: revoloteó
+
+43. rattled
+: sacudió
+
+44. derelict
+: abandonado
+
+45. gauntness
+: flacura
+
+46. squirm
+: retorcerse
+
