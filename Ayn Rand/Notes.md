@@ -216,7 +216,26 @@ It was days later, when they were alone… that she asked:
 “The man without a purpose.”[^55]
 >>>
 
-> “Dagny, there’s nothing of any importance in life–except how well you do your work. Nothing. Only that. Whatever else you are, will come from that. It’s the only measure of human value. All the codes of ethics they’ll try to ram down your throat are just so much paper money put out by swindlers to fleece people of their virtues. The code of competence is the only system of morality that’s a gold standard. When you grow up, you’ll know what I mean.” [^56]
+> “Dagny, there’s nothing of any importance in life–except how well you do your work. Nothing. Only that. Whatever else you are, will come from that. It’s the only measure of human value. All the codes of ethics they’ll try to ram down your throat are just so much paper money put out by swindlers to fleece people of their virtues. The code of competence is the only system of morality that’s a gold standard. When you grow up, you’ll know what I mean.”[^56]
+
+>>>
+“Mother, do they think it’s exactly in reverse?” she asked.
+“What?” asked Mrs. Taggart, bewildered.
+“The things you were talking about. The lights and the flowers. Do they expect those things to make them romantic, not the other way around?”
+“Darling, what do you mean?”
+“There wasn’t a person there who enjoyed it,” she said, her voice lifeless, “or who thought or felt anything at all. They moved about, and they said the same dull things they say anywhere. I suppose they thought the lights would make it brillant.”
+“Darling, you take everything too seriously. One is not supposed to be an intellectual at a ball. One is simply supposed to be gay.”
+“How? By being stupid?”[^57]
+>>>
+
+> “The government of the People’s State of Mexico has issued a proclamation,” he said, “asking the people to be patient and put up with hardships just a little longer. It seems that the copper fortune of the San Sebastián Mines was part of the plans of the central planning council. It was to raise everybody’s standard of living and provide a roast of pork every Sunday for every man, woman, child and abortion in the People’s State of Mexico. Now the planners are asking people not to blame the government, but to blame the depravity of the rich, because I turned out to be an irresponsible playboy, instead of the greedy capitalist I was expected to be. How were they to know, they’re asking, that I would let them down? Well, true enough. How they were to know it?”[^58]
+
+> “Francisco! If you see what’s happening in the world, if you understand all the things you said, you can’t laugh about it! You, of all men, you should fight them!”
+“Whom?”
+“The looters, and those who make world-looting possible. The Mexican planners and their kind.”
+His smile had a dangerous edge. “No, my dear. It’s you that I have to fight.”
+She looked at him blankly. “What are you trying to say?”
+“I am saying that the workers’ settlement of San Sebastrián cost eight million dollars,” he answered with slow emphasis, his voice hard. “The price paid for those cardboard houses was the price that could have bought steel structures. So was the price paid for every other item. That money went to men who grow rich by such methods. Such men do not remain rich for long. The money will go into channels which will carry it, not to the most productive, but to the most corrupt. By the standards of our time, the man who has the least to offer is the man who wins. That money will vanish in projects such as the San Sebastián Mines.”[^59]
 
 [^49] p. 90
 [^50] su estela, un largo rastro tembloroso
@@ -226,4 +245,6 @@ It was days later, when they were alone… that she asked:
 [^54] p. 94
 [^55] p. 98
 [^56] p. 98
-
+[^57] p. 101-102
+[^58] p. 119
+[^59] p. 120
