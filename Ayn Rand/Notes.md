@@ -235,7 +235,7 @@ It was days later, when they were alone… that she asked:
 “The looters, and those who make world-looting possible. The Mexican planners and their kind.”
 His smile had a dangerous edge. “No, my dear. It’s you that I have to fight.”
 She looked at him blankly. “What are you trying to say?”
-“I am saying that the workers’ settlement of San Sebastrián cost eight million dollars,” he answered with slow emphasis, his voice hard. “The price paid for those cardboard houses was the price that could have bought steel structures. So was the price paid for every other item. That money went to men who grow rich by such methods. Such men do not remain rich for long. The money will go into channels which will carry it, not to the most productive, but to the most corrupt. By the standards of our time, the man who has the least to offer is the man who wins. That money will vanish in projects such as the San Sebastián Mines.”[^59]
+“I am saying that the workers’ settlement of San Sebastián cost eight million dollars,” he answered with slow emphasis, his voice hard. “The price paid for those cardboard houses was the price that could have bought steel structures. So was the price paid for every other item. That money went to men who grow rich by such methods. Such men do not remain rich for long. The money will go into channels which will carry it, not to the most productive, but to the most corrupt. By the standards of our time, the man who has the least to offer is the man who wins. That money will vanish in projects such as the San Sebastián Mines.”[^59]
 
 [^49] p. 90
 [^50] su estela, un largo rastro tembloroso
