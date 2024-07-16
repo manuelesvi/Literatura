@@ -601,3 +601,8 @@
 46. squirm
 : retorcerse
 
+## Chapter 6: The Non-Commercial
+
+1. stinging jets
+: chorros punzantes
+
