@@ -248,3 +248,22 @@ She looked at him blankly. “What are you trying to say?”
 [^57] p. 101-102
 [^58] p. 119
 [^59] p. 120
+
+# Chapter 6 - The Non-Commercial
+> This was his wedding anniversary and he had known for three months that the party would take place tonight, as Lillian wished. He had promised it to her, safe in the knowledge that the party was a long way off and that he would attend to it, when the time came, as he attended to every duty on his overloaded schedule. Then, during three months of eighteen-hour workdays, he had forgotten it happily– until half an hour ago, when, long past dinner time, his secretary had entered his office and said firmly, “Your party, Mr. Rearden.” He had cried, “Good God!” leaping to his feet; he had hurried home, rushed up the stairs, started tearing his clothes off and gone through the routine of dressing, conscious only of the need to hurry, not of the purpose. When the full realization of the purpose struck him like a sudden blow, he stopped.[^60]
+
+> He could not stop the thing in his mind that went on throwing words at him; it was like trying to plug a broken hydrant with his bare hands. Stinging jets, part words, part pictures, kept shooting at his brain… Hours of it, he thought, hours to spend watching the eyes of the guests getting heavy with boredom if they were sober or glazing into an imbecile stare if they weren’t, and pretend that he noticed neither, and strain to think of something to say to them, when he had nothing to say– while he needed hours of inquiry to find a successor for the superintendent of his rolling mills who had resigned suddenly, without explanation– he had to do it at once– men of that sort were so hard to find– and if anything happened to break the flow of the rolling mills– it was the Taggart rail that was being rolled…[^61]
+
+>>>
+Lillian Rearden approached, her jewels glittering under the lights…
+
+“It is this insistence of man upon meaning that makes him so difficult, “ said Dr. Pritchett. “Once he realizes that he is of no importance whatever in the vast scheme of the universe, that no possible significance can be attached to his activities, that it does not matter whether he lives or dies, he will become much more… tractable[^62]”.
+
+He shrugged and reached for another canapé. A businessman said uneasily, “What I asked you about, Professor, was what you thought about the Equalization of Opportunity Bill. ”
+
+“Oh, that?” said Dr. Pritchett. “But I believe that I made it clear that I am in favor of it, because I'm in favor of a free economy. A free economy cannot exist without competition. Therefore, men must be forced to compete. Therefore, we must control men in order to force them to be free.”[^63]
+>>>
+
+> “No, you cannot expect people to understand the higher reaches of philosophy. Culture should be taken out of the hands of the dollar-chasers. We need a national subsidy for literature. It is disgraceful that artists are treated like peddlers and that art works have to be sold like soap.”[^64]
+
+> “Dr. Prittchet was telling us that nothing is anything.”… “He taught us that everything is something.”[^65]

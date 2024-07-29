@@ -565,44 +565,59 @@
 34. handkerchief
 : pañuelo
 
-35. gown
-: vestido
-
-36. preposterous
+35. preposterous
 : absurdo
 
-37. ruefully
+36. ruefully
 : tristemente
 
-38. slouched
+37. slouched
 : encorvada
 
-39. backhand
+38. backhand
 : revés
 
-40. gasps
+39. gasps
 : jadeos
 
-41. swiftly
+40. swiftly
 : rápidamente
 
-42. fluttered
+41. fluttered
 : revoloteó
 
-43. rattled
+42. rattled
 : sacudió
 
-44. derelict
+43. derelict
 : abandonado
 
-45. gauntness
+44. gauntness
 : flacura
 
-46. squirm
+45. squirm
 : retorcerse
 
 ## Chapter 6: The Non-Commercial
 
 1. stinging jets
 : chorros punzantes
+
+2. scorn
+: desprecio
+
+3. nook
+: rincón
+
+4. dowagers
+: viudas
+
+5. flaunted
+: hizo alarde
+
+6. hoarded
+: atesorado
+
+7. peddlers
+: vendedores ambulantes
 
