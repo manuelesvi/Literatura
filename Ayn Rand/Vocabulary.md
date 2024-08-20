@@ -621,3 +621,12 @@
 7. peddlers
 : vendedores ambulantes
 
+8. spinster
+: solterona
+
+9. prowlers
+: merodeadores
+
+10. earnestness
+: seriedad
+
