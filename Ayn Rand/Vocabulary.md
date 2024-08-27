@@ -630,3 +630,49 @@
 10. earnestness
 : seriedad
 
+## Chapter 7: The Exploiters and The Exploited
+
+1. abutments
+: pilares
+
+2. stiff
+: rígidos
+
+3. untangle
+: desenredar
+
+4. smelters
+: fundiciones
+
+5. bleak
+: desolado
+
+6. impervious to sleet
+: impermeable al aguanieve
+
+7. vultures
+: buitres
+
+8. husky
+: fornido
+
+9. velvet cape
+: abrigo de terciopelo
+
+10. slum diner
+: comedor de clase baja
+
+11. stolid
+: calmado, impasible
+
+12. griddle
+: plancha
+
+13. enameled
+: esmaltado
+
+14. sneer
+: 
+
+15. ignoble cunning
+: innoble

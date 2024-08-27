@@ -81,6 +81,8 @@ He stopped. He shrugged and smiled– he was alive for a moment and it was the s
 [^22] p. 47
 [^23] p. 48
 
+---
+
 # Chapter 3 - The Top and The Bottom
 
 > Disunity, that’s the trouble. It’s my absolute opinion that in our complex industrial society, no business enterprise can succeed without sharing the burden of the problems of other enterprises. [^24]
@@ -132,6 +134,8 @@ He said, “I don’t like the thing that’s happening to people, Miss Taggart.
 [^37] súplicas
 [^38] p. 64
 
+---
+
 # Chapter 4 - The Immovable Movers
 
 > She felt a dim touch of anxiety. She was back from a trip to the plant of the United Locomotive Works in New Jersey, where she had gone to see the president of the company in person. She had learned nothing: neither the reason for the delays nor any indication for the date when the Diesel engines would be produced. The president of the company had talked to her for two hours. But none of his answers had connected to any of her questions. His manner had conveyed a peculiar note of condescending reproach whenever she attempted to make the conversation specific, as if she were giving proof of ill-breeding by breaking some unwritten code known to everyone else. [^39]
@@ -177,6 +181,8 @@ When the Anti-dog-eat-dog Rule was offered to the vote of the full membership of
 [^46] p. 81
 [^47] p. 82
 [^48] p. 85
+
+---
 
 # Chapter 5 - The Climax of The D'Anconias
 
@@ -249,6 +255,8 @@ She looked at him blankly. “What are you trying to say?”
 [^58] p. 119
 [^59] p. 120
 
+---
+
 # Chapter 6 - The Non-Commercial
 > This was his wedding anniversary and he had known for three months that the party would take place tonight, as Lillian wished. He had promised it to her, safe in the knowledge that the party was a long way off and that he would attend to it, when the time came, as he attended to every duty on his overloaded schedule. Then, during three months of eighteen-hour workdays, he had forgotten it happily– until half an hour ago, when, long past dinner time, his secretary had entered his office and said firmly, “Your party, Mr. Rearden.” He had cried, “Good God!” leaping to his feet; he had hurried home, rushed up the stairs, started tearing his clothes off and gone through the routine of dressing, conscious only of the need to hurry, not of the purpose. When the full realization of the purpose struck him like a sudden blow, he stopped.[^60]
 
@@ -267,3 +275,56 @@ He shrugged and reached for another canapé. A businessman said uneasily, “Wha
 > “No, you cannot expect people to understand the higher reaches of philosophy. Culture should be taken out of the hands of the dollar-chasers. We need a national subsidy for literature. It is disgraceful that artists are treated like peddlers and that art works have to be sold like soap.”[^64]
 
 > “Dr. Prittchet was telling us that nothing is anything.”… “He taught us that everything is something.”[^65]
+
+---
+
+# Chapter 7 - The Exploiters and The Exploited
+
+>>> 
+A tractor went past her, loaded with green-blue bolts. The sound of drills came as a steady shudder from far below, where men swung on metal cables, cutting the straight stone drop of the canyon wall to reinforce the abutments of the bridge. Down the track, she could see men working, their arms stiff with the tension of their muscles as they gripped the handles of electric tie tampers.
+
+"Muscles, Miss Taggart," Ben Nealy, the contractor, had said to her, "muscles -that's all it takes to build anything in the world."[^66]
+>>>
+
+> She had doubled the price of her order. Rearden had sent two metallurgists to train Mowen's men, to teach, to show, to explain every step of the process, and had paid the salaries of Mowen's men while they were being trained.[^67]
+
+> She looked at the spikes in the rail at her feet. They meant the night when she had heard that Summit Casting of Illinois, the only company willing to make spikes of Rearden Metal, had gone bankrupt, with half of her order undelivered. She had flown to Chicago, that night, she had got three lawyers, a judge and a state legislator out of bed, she had bribed two of them and threatened the others, she had obtained a paper that was an emergency permit of a legality no one would ever be able to untangle, she had had the padlocked doors of the Summit Casting plant unlocked and a random, half-dressed crew working at smelters before the windows had turned gray with daylight. The crews had remained at work, under a Taggart engineer and a Rearden metallurgist. The rebuilding of the Rio Norte line was not held up.[^68]
+
+>>>
+Sitting beside him in his car, she regretted that she had agreed. She looked at the streets of New York and thought of the race between metal and time, between the rails of the Rio Norte Line and the passing days. She felt as if her nerves were being pulled tight by the stillness of the car, by the guilt of wasting an evening when she could not afford wasting an hour. 
+
+"With all those attacks on Rearden that one hears everywhere," said Taggart, "he might need a few friends."[^69]
+>>>
+
+> "A cup of coffee, please," she said... She glanced around her and thought, in habitual professional calculation, how wonderful it was that one could buy so much for a dime.[^70]
+
+>>>
+"It's dust, lady, all of it, dust and blood. Don't believe the dreams they pump you full of, and you won't get hurt."
+
+"What dreams?"
+
+"The stories they tell you when you're young -about the human spirit. There isn't any human spirit. Man is just a low-grade animal, without intellect, without soul, without virtues or moral values. An animal with only two capacities: to eat and to reproduce."[^71]
+>>>
+
+> "Man's only talent is an ignoble cunning for satisfying the needs of his body," said the old bum. "No intelligence is required for that. Don't believe the stories about man's mind, his spirit, his ideals, his sense of unlimited ambition."[^72]
+
+>>> 
+"Spirit?" said the old bum. "There's no spirit involved in manufacturing or in sex. Yet these are man's only concerns. Matter, -that's all men know or care about. As witness our great industries -the only accomplishment of our alleged civilization- built by vulgar materialists with the aims, the interests and the moral sense of hogs. It doesn't take any morality to turn out a ten-ton truck on an assembly line."
+
+"What is morality?" she asked.
+
+"Judgement to distinguish right and wrong, vision to see the truth, courage to act upon it, dedication to that which is good, integrity to stand by the good at any price. But where does one find it?"
+
+The young boy made a sound that was half-chuckle, half-sneer:
+"Who is John Galt?"[^73]
+>>>
+
+[^66] p. 154
+[^67] p. 155
+[^68] p. 155-156
+[^69] p. 164
+[^70] p. 167
+[^71] p. 168
+[^72] p. 168
+[^73] p. 168
+
