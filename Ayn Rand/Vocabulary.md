@@ -672,7 +672,41 @@
 : esmaltado
 
 14. sneer
-: 
+: burla
 
 15. ignoble cunning
-: innoble
+: astucia innoble
+
+16. mirthlessly
+: 
+
+17. huddled
+:
+
+18. nodded
+:
+
+19. grapple
+:
+
+20. exultantly
+:
+
+21. crippled
+:
+
+---
+
+## Chapter 8 - The John Galt Line
+
+1. rotten stooge
+:
+
+2. sneaky
+:
+
+3. wincing
+: 
+
+4. blotches
+:

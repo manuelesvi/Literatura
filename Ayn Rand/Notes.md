@@ -258,6 +258,7 @@ She looked at him blankly. “What are you trying to say?”
 ---
 
 # Chapter 6 - The Non-Commercial
+
 > This was his wedding anniversary and he had known for three months that the party would take place tonight, as Lillian wished. He had promised it to her, safe in the knowledge that the party was a long way off and that he would attend to it, when the time came, as he attended to every duty on his overloaded schedule. Then, during three months of eighteen-hour workdays, he had forgotten it happily– until half an hour ago, when, long past dinner time, his secretary had entered his office and said firmly, “Your party, Mr. Rearden.” He had cried, “Good God!” leaping to his feet; he had hurried home, rushed up the stairs, started tearing his clothes off and gone through the routine of dressing, conscious only of the need to hurry, not of the purpose. When the full realization of the purpose struck him like a sudden blow, he stopped.[^60]
 
 > He could not stop the thing in his mind that went on throwing words at him; it was like trying to plug a broken hydrant with his bare hands. Stinging jets, part words, part pictures, kept shooting at his brain… Hours of it, he thought, hours to spend watching the eyes of the guests getting heavy with boredom if they were sober or glazing into an imbecile stare if they weren’t, and pretend that he noticed neither, and strain to think of something to say to them, when he had nothing to say– while he needed hours of inquiry to find a successor for the superintendent of his rolling mills who had resigned suddenly, without explanation– he had to do it at once– men of that sort were so hard to find– and if anything happened to break the flow of the rolling mills– it was the Taggart rail that was being rolled…[^61]
@@ -319,6 +320,27 @@ The young boy made a sound that was half-chuckle, half-sneer:
 "Who is John Galt?"[^73]
 >>>
 
+>>>
+"Men are not open to truth or reason. They cannot be reached by a rational argument. The mind is powerless against them. Yet we have to deal with them. If we want to accomplish anything, we have to deceive them into letting us accomplish it. Or force them. They understand nothing else. We cannot expect their support in any endeavor of the intellect, for any goal of the spirit. They are nothing but vicious animals. They are greedy, self-indulgent, predatory dollar-chasers who-"
+
+"I am one of the dollar-chasers, Dr. Stadler," she said, her voice low.
+
+"You are an unusual, brilliant child who has not seen enough of life to grasp the full measure of human stupidity. I've fought it all my life. I'm very tired..."[^74]
+>>>
+
+> "The moment you announce that you're turning the Rio Norte Line over to me, the Taggart stock will rise. The bedbugs will stop crawling from out of unlikely corners, since they won't have the incentive of a big company to bite. Before they decide what to do about me, I will have the Line finished. And as for me, I don't want to have you and your Board to account to, to argue with, to beg permission from. There isn't any time for that, if I am to do the kind of job that has to be done. So I'm going to do it alone."[^75]
+
+>>>
+"What are you going to call your company?"
+"Oh... Why, the Dagny Taggart Line, I guess."
+"But... Do you think that's wise? It might be misunderstood. The *Taggart* might be taken as-"
+"Well, what do you want me to call it?" she snapped, worn down to anger. "The Miss Nobody? The Madam X? The John Galt?" She stopped, she smiled suddenly, a cold, bright, dangerous smile. "That's what I'm going to call it: the John Galt Line."
+"Good God, no!"
+"Yes."[^76]
+>>>
+
+> "I am a simple beggar, Francisco, and I am begging you for money. I had always thought that one did not beg in business. I thought that one stood on the merit of what one had to offer, and gave value for value. This is not so any more, though I don't understand how we can act on any other rule and continue to exist. Judging by every objective fact, the Rio Norte Line is to be the best railroad in the country. Judging by every known standard, it is the best investment possible. And that's what damns me. I cannot raise money by offering people a good business venture: the fact that it's good, makes people reject it. There's no bank that would buy the bonds of my company. So I can't plead merit. I can only plead."[^77]
+
 [^66] p. 154
 [^67] p. 155
 [^68] p. 155-156
@@ -327,4 +349,24 @@ The young boy made a sound that was half-chuckle, half-sneer:
 [^71] p. 168
 [^72] p. 168
 [^73] p. 168
+[^74] p. 180-181
+[^75] p. 184
+[^76] p. 185
+[^77] p. 187
+
+---
+
+# Chapter 8 - The John Galt Line
+
+> Is that what you want? Is it as simple as that? she thought, but knew that it was not simple. There was some unbreakable link between her love for her work and the desire of her body; as if one gave her the right to the other, the right and the meaning; as if one were the completion of the other -and the desire would never be satisfied, except by a being of equal greatness.[^78]
+
+>>>
+"I don't have to tell you what your offer means to Dagny, to me, to every decent person on Taggart Transcontinental. You know it. And you know you can count on us. But... but I think it's horrible that Jim Taggart should benefit, too -that you should be the one to save him and people like him, after they-"
+
+Rearden laughed. "Eddie, what do we care about people like him? We're driving an express, and they're riding on the roof, making a lot of noise about being leaders. Why should we care? We have enough power to carry them along -haven't we?"[^79]
+>>>
+
+[^78] p. 207
+[^79] p. 213
+
 
