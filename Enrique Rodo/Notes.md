@@ -38,3 +38,10 @@
 
 > Indudablemente, ninguno más seguro entre los resultados de la estética que el que nos enseña a distinguir en la esfera de lo relativo, lo bueno y lo verdadero, de lo hermoso, y a aceptar la posibilidad de una belleza del mal y del error. Pero no se necesita desconocer esta verdad, definitivamente verdadera, para creer en el encadenamiento simpático de todos aquellos altos fines del alma, y considerar a cada uno de ellos como el punto de partida, no único, pero sí más seguro, de donde sea posible dirigirse al encuentro de los otros.
 
+> Aun en el rigor del análisis, sabe poner la unción del sacerdote. Aun cuando enseña a dudar, su suavidad exquisita tiende una onda balsámica sobre la duda. Sus pensamientos suelen dilatarse, dentro de nuestra alma, con ecos tan inefables y tan vagos, que hacen pensar en una religiosa música de ideas.
+
+> La selección espiritual, el enaltecimiento de la vida por la presencia de estímulos desinteresados, el gusto, el arte, la suavidad de las costumbres, el sentimiento de admiración por todo perseverante propósito ideal y de acatamiento a toda noble supremacía, serán como debilidades indefensas allí donde la igualdad social que ha
+destruido las jerarquías imperativas e infundadas, no las sustituya con otras, que tengan en la influencia moral su único modo de dominio y su principio en una clasificación racional.
+
+> Y lo afirmativo de la democracia y su gloria consistirán en suscitar, por eficaces estímulos, en su seno, la revelación y el dominio de las verdaderas superioridades
+humanas.
