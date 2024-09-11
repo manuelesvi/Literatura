@@ -40,8 +40,13 @@
 
 > Aun en el rigor del análisis, sabe poner la unción del sacerdote. Aun cuando enseña a dudar, su suavidad exquisita tiende una onda balsámica sobre la duda. Sus pensamientos suelen dilatarse, dentro de nuestra alma, con ecos tan inefables y tan vagos, que hacen pensar en una religiosa música de ideas.
 
-> La selección espiritual, el enaltecimiento de la vida por la presencia de estímulos desinteresados, el gusto, el arte, la suavidad de las costumbres, el sentimiento de admiración por todo perseverante propósito ideal y de acatamiento a toda noble supremacía, serán como debilidades indefensas allí donde la igualdad social que ha
-destruido las jerarquías imperativas e infundadas, no las sustituya con otras, que tengan en la influencia moral su único modo de dominio y su principio en una clasificación racional.
+> La selección espiritual, el enaltecimiento de la vida por la presencia de estímulos desinteresados, el gusto, el arte, la suavidad de las costumbres, el sentimiento de admiración por todo perseverante propósito ideal y de acatamiento a toda noble supremacía, serán como debilidades indefensas allí donde la igualdad social que ha destruido las jerarquías imperativas e infundadas, no las sustituya con otras, que tengan en la influencia moral su único modo de dominio y su principio en una clasificación racional.
 
-> Y lo afirmativo de la democracia y su gloria consistirán en suscitar, por eficaces estímulos, en su seno, la revelación y el dominio de las verdaderas superioridades
-humanas.
+> Y lo afirmativo de la democracia y su gloria consistirán en suscitar, por eficaces estímulos, en su seno, la revelación y el dominio de las verdaderas superioridades humanas.
+
+> Hay una verdad profunda en el fondo de la paradoja de Emerson que exige que cada país del globo sea juzgado según la minoría y no según la mayoría de sus habitantes.
+
+> Ellos llamarán al dogmatismo del sentido vulgar; sabiduría; gravedad, a la mezquina aridez del corazón; criterio sano, a la adaptación perfecta a lo mediocre; y despreocupación viril, al mal gusto.
+
+> «las mayorías compactas son el peligro más peligroso de la libertad y la verdad»
+
