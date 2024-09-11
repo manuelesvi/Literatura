@@ -366,7 +366,18 @@ The young boy made a sound that was half-chuckle, half-sneer:
 Rearden laughed. "Eddie, what do we care about people like him? We're driving an express, and they're riding on the roof, making a lot of noise about being leaders. Why should we care? We have enough power to carry them along -haven't we?"[^79]
 >>>
 
+>>>
+People said it because other people said it. They did not know why it was being said and heard everywhere. They did not give or ask for reasons. "Reason," Dr. Pritchett had told them, "is the most naive of all superstitions."
+
+"The source of public opinion?" ... "There is no source of public opinion. It is spontaneously general. It is a reflex of the collective instinct of the collective mind."[^80]
+>>>
+
+> Dagny Taggart had announced that the first train would be not a passenger express loaded with celebrities and politicians, as was the custom, but a freight special. The freight came from farms, from lumber yards, from mines all over the country, from distant places whose last means of survival were the new factories of Colorado.[^81]
+
 [^78] p. 207
 [^79] p. 213
+[^80] p. 214
+[^81] p. 216
+
 
 

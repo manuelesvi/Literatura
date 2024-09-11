@@ -678,35 +678,39 @@
 : astucia innoble
 
 16. mirthlessly
-: 
+: sin alegría
 
 17. huddled
-:
+: acurrucado
 
 18. nodded
-:
+: asintió
 
 19. grapple
-:
+: luchar
 
 20. exultantly
-:
+: exultantemente
 
 21. crippled
-:
+: lisiado(a)
 
 ---
 
-## Chapter 8 - The John Galt Line
+## Chapter 8: The John Galt Line
 
 1. rotten stooge
-:
+: títere podrido
 
 2. sneaky
-:
+: furtiva
 
 3. wincing
-: 
+: haciendo una mueca
 
 4. blotches
-:
+: manchas
+
+5. scoundrel
+: sinvergüenza
+
