@@ -52,8 +52,7 @@
 
 > Cabe pensar en que progresivamente se encarnen, en los sentimientos del pueblo y sus costumbres, la idea de las subordinaciones necesarias, la noción de las superioridades verdaderas, el culto consciente y espontáneo de todo lo que multiplica, a los ojos de la razón, la cifra del valor humano.
 
-> La educación popular adquiere, considerada en relación a tal obra, como siempre que se las mira con el pensamiento en el porvenir, un interés supremo. Es en la escuela, por cuyas manos procuramos que pase la dura arcilla de las muchedumbres, donde está la primera y más generosa manifestación de la equidad social, que consagra para todos la accesibilidad del saber y de los medios más eficaces de superioridad. Ella debe complementar tan noble
-cometido, haciendo objetos de una educación preferente y cuidadosa el sentido del orden, la idea y la voluntad de la justicia, el sentimiento de las legítimas autoridades morales.
+> La educación popular adquiere, considerada en relación a tal obra, como siempre que se las mira con el pensamiento en el porvenir, un interés supremo. Es en la escuela, por cuyas manos procuramos que pase la dura arcilla de las muchedumbres, donde está la primera y más generosa manifestación de la equidad social, que consagra para todos la accesibilidad del saber y de los medios más eficaces de superioridad. Ella debe complementar tan noble cometido, haciendo objetos de una educación preferente y cuidadosa el sentido del orden, la idea y la voluntad de la justicia, el sentimiento de las legítimas autoridades morales.
 
 >  El verdadero, el digno concepto de la igualdad reposa sobre el pensamiento de que todos los seres racionales están dotados por naturaleza de facultades capaces de un desenvolvimiento noble.
 
@@ -71,6 +70,18 @@ cometido, haciendo objetos de una educación preferente y cuidadosa el sentido d
 
 > Una democracia en la cual la supremacía de la inteligencia y la virtud -únicos límites para la equivalencia meritoria de los hombres- reciba su autoridad y su prestigio de la libertad, y descienda sobre las multitudes en la efusión bienhechora del amor.
 
-> La democracia, entonces, habrá triunfado definitivamente. Y ella, que, cuando amenaza con lo innoble del rasero nivelador, justifica las protestas airadas y las amargas melancolías de los que creyeron sacrificados por su triunfo toda distinción intelectual, todo ensueño de arte, toda delicadeza de la vida, tendrá, aún más que las viejas aristocracias, inviolables
-seguros para el cultivo de las flores del alma que se marchiten y perecen en el ambiente de la vulgaridad y entre las impiedades del tumulto.
+> La democracia, entonces, habrá triunfado definitivamente. Y ella, que, cuando amenaza con lo innoble del rasero nivelador, justifica las protestas airadas y las amargas melancolías de los que creyeron sacrificados por su triunfo toda distinción intelectual, todo ensueño de arte, toda delicadeza de la vida, tendrá, aún más que las viejas aristocracias, inviolables seguros para el cultivo de las flores del alma que se marchiten y perecen en el ambiente de la vulgaridad y entre las impiedades del tumulto.
 
+> Si ha podido decirse del utilitarismo que es el verbo del espíritu inglés, los Estados Unidos pueden ser considerados la encarnación del verbo utilitario. Y el Evangelio de este verbo se difunde por todas partes a favor de los milagros materiales del triunfo.
+
+> El cuidado de la independencia interior -la de la personalidad, la del criterio- es una principalísima forma del respeto propio.
+
+> El gobierno de la mediocridad vuelve vana la emulación que realza los caracteres y las inteligencias y que los entona con la perspectiva de la efectividad de su dominio. La democracia, a la que no han sabido dar el regulador de una alta y educadora noción de las superioridades humanas, tendió siempre entre ellos a esa brutalidad abominable del número que menoscaba los mejores beneficios morales de la libertad y anula en la opinión el respeto de la dignidad ajena.
+
+> Sin el brazo que nivela y construye, no tendría paz el que sirve de apoyo a la noble frente que piensa. Sin la conquista de cierto bienestar material es imposible, en las sociedades humanas, el reino del espíritu.
+
+> La gran ciudad es, sin duda, un organismo necesario de la alta cultura. Es el ambiente natural de las más altas manifestaciones del espíritu.
+
+> «el alma que acude a beber fuerzas y energías en la íntima comunicación con el linaje humano, esa alma que constituye al grande hombre, no puede formarse y dilatarse en medio de los pequeños partidos de una ciudad pequeña»
+
+> He ahí por qué vuestra filosofía moral en el trabajo y el combate debe ser el reverso del carpe diem horaciano; una filosofía que no se adhiera a lo presente sino como al peldaño donde afirmar el pie o como a la brecha por donde entrar en muros enemigos. No aspiraréis, en lo inmediato, a la consagración de la victoria definitiva, sino a procuraros mejores condiciones de lucha.
