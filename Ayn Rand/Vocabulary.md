@@ -714,3 +714,25 @@
 5. scoundrel
 : sinvergüenza
 
+6. sinewy
+: 
+
+7. unsummoned
+: sin ser convocados
+
+8. swaying sculpture of people
+: 
+
+9. tugging
+:
+
+## Chapter 9: The Sacred and The Profane
+
+1. aloofness
+: an unfriendly person ()
+
+2. contempt
+: 
+
+3. 
+:
