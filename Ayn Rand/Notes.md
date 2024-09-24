@@ -391,4 +391,7 @@ People said it because other people said it. They did not know why it was being 
 
 > "What I feel for you is contempt. But it's nothing, compared to the contempt I feel for myself. I don't love you. I've never loved anyone. I wanted you from the first moment I saw you. I wanted you as one wants a whore -for the same reason and purpose. I spent two years damning myself, because I thought you were above a desire of this kind. You're not. You're as vile an animal as I am. I should loathe my discovering it. I don't. Yesterday, I would have killed anyone who'd tell me that you were capable of doing what I've had you do. Today, I would give my life not to let it be otherwise, not to have you be anything but the bitch you are. All the greatness that I saw in you -I would not take it in exchange for the obscenity of your talent at an animal's sensation of pleasure. We were two great beings, you and I, proud of our strength, weren't we? Well, this is all that's left of us -and I want no self-deception about it."[^84]
 
+> Now I've broken an oath I gave for life. I had never committed an act that had to be hidden. Now I am to lie, to sneak, to hide. Whatever I wanted, I was free to proclaim it aloud and achieve it in the sight of the whole world... I'm going to have you at the price of more than myself: at the price of my self-esteem... I want no pretense about love, value, loyalty or respect.[^85]
+
 [^84] p. 238
+[^85] p. 238
