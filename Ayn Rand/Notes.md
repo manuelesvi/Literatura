@@ -416,8 +416,21 @@ People said it because other people said it. They did not know why it was being 
 "Oh, I don't know, but... but people do things in the world. I saw pictures of New York and I thought" -she pointed at the giant buildings beyond the streaks of rain on the cab window- "I thought, somebody built those buildings -he didn't just sit and whine that the kitchen was filthy and the roof leaking and the plumbing clogged and it's a goddamn world and... Mr. Taggart" -she jerked her head in a shudder and looked straight at him- "we were stinking poor and not giving a damn about it. That's what I couldn't take- that they didn't really give a damn. Not enough to lift a finger. Not enough to empty the garbage pail. And the woman next door saying it was my duty to help them, saying it made no difference what became of me or of her or of any of us, because what could anybody do anyway!" Beyond the bright look of her eyes, he saw something within her that was hurt and hard. "I don't want to talk about them," she said. "Not with you. This -my meeting you, I mean- that's what they couldn't have. That's what I'm not going to share with them. It's mine not theirs."[^88]
 >>>
 
+>>>
+"I mean we're only human beings -and what's a human being? A weak, ugly, sinful creature, born that way, rotten in his bones- so humility is the one virtue he ought to practice. He ought to spend his life on his knees, begging to be forgiven for his dirty existence. When a man thinks he's good -that's when he's rotten. Pride is the worst of all sins, no matter what he's done."
+"But if a man knows that what he's done is good?"
+"Then he ought to apologize for it."
+"To whom?"
+"To those who haven't done it."
+"I... I don't understand."[^89]
+>>>
+
+> "It's great of you, Mr. Taggart, to think that your own achievement isn't good enough for you. I guess no matter how far you've gone, you want to go still farther. You're ambitious. That's what I admire most: ambition. I mean, doing things, not stopping and giving up, but doing. I understand, Mr. Taggart... even if I don't understand all the big thoughts."[^90]
+
 [^84] p. 238
 [^85] p. 238
 [^86] p. 242
 [^87] p. 243
 [^88] p. 245
+[^89] p. 248
+[^90] p. 249
