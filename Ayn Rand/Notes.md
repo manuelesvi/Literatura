@@ -393,5 +393,31 @@ People said it because other people said it. They did not know why it was being 
 
 > Now I've broken an oath I gave for life. I had never committed an act that had to be hidden. Now I am to lie, to sneak, to hide. Whatever I wanted, I was free to proclaim it aloud and achieve it in the sight of the whole world... I'm going to have you at the price of more than myself: at the price of my self-esteem... I want no pretense about love, value, loyalty or respect.[^85]
 
+>>>
+"Tell them to go to hell."
+"Whom?"
+"Whoever's getting you down. It isn't right."
+"What isn't?"
+"That you should feel this way. You've had a tough time, but you've licked them all, so you ought to enjoy yourself now. You've earned it."
+"And how do you propose that I enjoy myself?"
+"Oh, I don't know. But I thought you'd be having a celebration tonight, a party with all the big shots, and champagne, and things given to you, like keys to cities, a real swank party like that -instead of walking around all by yourself, shopping for paper handkerchiefs, of all fool things!"[^86]
+>>>
+
+>>>
+"I don't think I like people very much, Mr. Taggart. Not most of them."
+"I don't either. Not any of them."
+"I thought a man like you -you wouldn't know how mean they can be and how they try to step on you and ride on your back, if you let them. I thought the big men in the world could get away from them and not have to be flea-bait all of the time, but maybe I was wrong."[^87]
+>>>
+
+>>>
+"What was it you wanted to do?"
+"Well, you know -make something of myself, get somewhere."
+"Where?"
+"Oh, I don't know, but... but people do things in the world. I saw pictures of New York and I thought" -she pointed at the giant buildings beyond the streaks of rain on the cab window- "I thought, somebody built those buildings -he didn't just sit and whine that the kitchen was filthy and the roof leaking and the plumbing clogged and it's a goddamn world and... Mr. Taggart" -she jerked her head in a shudder and looked straight at him- "we were stinking poor and not giving a damn about it. That's what I couldn't take- that they didn't really give a damn. Not enough to lift a finger. Not enough to empty the garbage pail. And the woman next door saying it was my duty to help them, saying it made no difference what became of me or of her or of any of us, because what could anybody do anyway!" Beyond the bright look of her eyes, he saw something within her that was hurt and hard. "I don't want to talk about them," she said. "Not with you. This -my meeting you, I mean- that's what they couldn't have. That's what I'm not going to share with them. It's mine not theirs."[^88]
+>>>
+
 [^84] p. 238
 [^85] p. 238
+[^86] p. 242
+[^87] p. 243
+[^88] p. 245
