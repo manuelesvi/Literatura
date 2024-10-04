@@ -427,6 +427,18 @@ People said it because other people said it. They did not know why it was being 
 
 > "It's great of you, Mr. Taggart, to think that your own achievement isn't good enough for you. I guess no matter how far you've gone, you want to go still farther. You're ambitious. That's what I admire most: ambition. I mean, doing things, not stopping and giving up, but doing. I understand, Mr. Taggart... even if I don't understand all the big thoughts."[^90]
 
+>>>
+"You'd think people have some feeling for their native state, some loyalty... But they're running away. I don't know what's happening to people."
+"It's the Bill," said the young man.
+"What Bill?"
+"The Equalization of Opportunity Bill."
+"How do you mean?"
+"I hear Mr. Quinn was making plans a year ago to open a branch in Colorado. The Bill knocked that out cold. So now he's made up his mind to move there, lock, stock and barrel."
+"I don't see where that makes it right. The Bill was necessary. It's a rotten shame -old firms that have been here for generations... There ought to be a law..."[^91]
+>>>
+
+> Mr. Mowen looked at the skyline, at the bells, the wheels, the smoke -the smoke that settled heavily, peacefully across the evening air, stretching in a long haze all the way to the city of New York somewhere beyond the sunset- and he felt reassured by the tought of New York in its ring of sacred fires, the ring of smokestacks, gas tanks, cranes and high tension lines. He felt a current of power flowing through every grimmy structure of his familiar street; he liked the figure of the young man above him, there was something reassuring in the way he worked, something that blended with the skyline... Yet Mr. Mowen wondered why he felt that a crack was growing somewhere, eating through the solid, the eternal walls.[^92]
+
 [^84] p. 238
 [^85] p. 238
 [^86] p. 242
@@ -434,3 +446,5 @@ People said it because other people said it. They did not know why it was being 
 [^88] p. 245
 [^89] p. 248
 [^90] p. 249
+[^91] p. 253
+[^92] p. 255
