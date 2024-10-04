@@ -715,16 +715,16 @@
 : sinvergüenza
 
 6. sinewy
-: 
+: nervios fuertes
 
 7. unsummoned
 : sin ser convocados
 
 8. swaying sculpture of people
-: 
+: escultura de personas balanceándose
 
 9. tugging
-:
+: jalando
 
 ## Chapter 9: The Sacred and The Profane
 
@@ -732,7 +732,23 @@
 : an unfriendly person ()
 
 2. contempt
-: 
+: desprecio
 
-3. 
-:
+3. shred
+: fibra, pedazo, pizca
+
+4. intently
+: atentamente
+
+5. whim
+: a sudden desire or idea
+
+6. moan
+: gemir
+
+7. pricking
+: punción
+
+8. screeching (p.243)
+: chillando
+
