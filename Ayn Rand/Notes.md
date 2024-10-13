@@ -439,6 +439,34 @@ People said it because other people said it. They did not know why it was being 
 
 > Mr. Mowen looked at the skyline, at the bells, the wheels, the smoke -the smoke that settled heavily, peacefully across the evening air, stretching in a long haze all the way to the city of New York somewhere beyond the sunset- and he felt reassured by the tought of New York in its ring of sacred fires, the ring of smokestacks, gas tanks, cranes and high tension lines. He felt a current of power flowing through every grimmy structure of his familiar street; he liked the figure of the young man above him, there was something reassuring in the way he worked, something that blended with the skyline... Yet Mr. Mowen wondered why he felt that a crack was growing somewhere, eating through the solid, the eternal walls.[^92]
 
+>>>
+"Why did you accept their invitation, Hank?" she asked. "You've always refused to join them."
+"I didn't want to refuse a peace offer -when I've beaten them and they know it. I'll never join them, but an invitation to appear as a guest of honor -well, I thought they were good loosers. I thought it was generous of them."
+"Of *them*?"
+"Are you going to say of *me*?"
+"Hank! All the things they've done to stop you-"
+"I won, didn't I? So I thought... You know, I didn't hold it against them that they couldn't see the value of the Metal sooner- so long as they saw it at last. Every man learns in his own way and time. Sure, I knew there was a lot of cowardice there, and envy and hypocrisy, but I thought that that was only the surface -*now*, when I've proved my case, when I've proved it so loudly! -I thought their real motive for inviting me was their appreciation of the Metal, and-"
+She smiled in the brief space of his pause; she knew the sentence he had stopped himself from uttering: "-and for that, I would forgive anyone anything."[^93]
+>>>
+
+>>>
+The next day, when they were driving west and south, toward the plains of Illinois, he had said suddenly, after a long silence, "No, I'll have to wait until they junk the Bill. The man who could work that mine wouldn't need me to teach him. The man who'd need me, wouldn't be worth a damn."
+
+They could speak of their work, as they always had, with full confidence in being understood. But they never spoke of each other. He acted as if their passionate intimacy were a nameless physical fact, not to be identified with the communication between two minds. Each night, it was as if she lay in the arms of a stranger who let her see every shudder of sensation that ran through his body, but would never permit her to know whether the shocks reached any answering tremor within him. She lay naked at his side, but on her wrist there was the bracelet of Rearden Metal.
+
+She knew that he hated the ordeal of signing the "Mr. and Mrs. Smith" on the registers of squalid roadside hotels. There were evenings when she noticed the faint contraction of anger in the tightness of his mouth, as he signed the expected names of the expected fraud, anger at those who made fraud necessary. She noticed, indifferently, the air of knowing slyness in the manner of hotel clerks, which seemed to suggest that guests and clerks alike were accomplices in a shameful guilt: the guilt of seeking pleasure. But she knew that it did not matter to him when they were alone, when he held her against him for a moment and she saw his eyes look alive and guiltless.[^94]
+>>>
+
+>>>
+Rearden took out a ten-dollar bill and extended it to him, asking, "Would you please tell us the way to the factory?"
+The man stared at the money with sullen indifference, not moving, not lifting a hand for it, still clutching the two buckets. If one were ever to see a man devoid of greed, thought Dagny, there he was.
+"We don't need no money around here," he said.
+"Don't you work for a living?"
+"Yeah."
+"Well, what do you use for money?"
+The man put the buckets down, as if it had just occurred to him that he did not have to stand straining under their weight. "We don't use no money," he said. "We just trade things amongst us."[^95]
+>>>
+
 [^84] p. 238
 [^85] p. 238
 [^86] p. 242
@@ -448,3 +476,6 @@ People said it because other people said it. They did not know why it was being 
 [^90] p. 249
 [^91] p. 253
 [^92] p. 255
+[^93] p. 258
+[^94] p. 263
+[^95] p. 266
