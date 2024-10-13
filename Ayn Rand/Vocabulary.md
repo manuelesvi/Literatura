@@ -752,3 +752,8 @@
 8. screeching (p.243)
 : chillando
 
+9. bonfire (p. 256)
+: a large fire that is made outside to burn unwanted things, or for pleasure (hoguera)
+
+10. spouted (p. 259)
+: to speak a lot, in a way that is boring or annoying for other people (declamar)
