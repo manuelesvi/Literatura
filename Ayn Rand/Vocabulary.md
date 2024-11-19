@@ -757,3 +757,11 @@
 
 10. spouted (p. 259)
 : to speak a lot, in a way that is boring or annoying for other people (declamar)
+
+---
+
+## Chapter 10: The Wyatt's Torch
+
+1. mahogany (p. 276)
+: a dark red-brown wood used to make furniture (caoba)
+

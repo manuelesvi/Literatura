@@ -479,3 +479,32 @@ The man put the buckets down, as if it had just occurred to him that he did not 
 [^93] p. 258
 [^94] p. 263
 [^95] p. 266
+
+---
+
+# Chapter 10 - The Wyatt's Torch
+
+> "Lord, no, ma'am! He wasn't the kind that ever operates anything. He didn't want to *make* money, only to *get* it. Guess he got it, too -more than anyone could have made out of that factory."[^96]
+
+> "Married people don't look as if they have a bedroom on their minds when they look at each other. In this world, either you're virtuous or you enjoy yourself. Not both lady, not both."[^97]
+
+> It did not seem real to her, here, under the ground. Thinking of it here, she knew she could have no part in Jim's battle. There was no action she could take against the men of undefined thought, of unnamed motives, of unstated purposes, of unspecified morality. There was nothing she could say to them -nothing would be heard or answered. What were the weapons, she thought, in a realm where reason was not a weapon any longer? It was a realm she could not enter. She had to leave it to Jim and count on his self-interest. Dimly, she felt the chill of a thought telling her that self-interest was not Jim's motive.[^98]
+
+> I am sure you wouldn't understand any consideration other than dollars and cents, but some people do consider their social and patriotic responsibilities.[^99]
+
+> He knew no weapons but to pay for what he wanted, to give value for value, to ask nothing of nature without trading his effort in return, to ask nothing of men without trading the product of his effort. What were the weapons, he thought, if values were not a weapon any longer?[^100]
+
+>>>
+The purchasing manager shook his head. "No, Mr. Rearden, it's one or the other. The same kind of brain can't do both. Either you are good at runnng the mills or you're good at running to Washington."
+"Maybe I ought to learn their method."
+"You couldn't learn it and it wouldn't do you any good. You wouldn't win in any of those deals. Don't you understand? You're the one who's got something to be looted."[^101]
+>>>
+
+---
+
+[^96] p. 273
+[^97] p. 277
+[^98] p. 280
+[^99] p. 281
+[^100] p. 282
+[^101] p. 283
