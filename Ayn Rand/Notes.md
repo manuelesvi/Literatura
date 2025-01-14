@@ -500,6 +500,16 @@ The purchasing manager shook his head. "No, Mr. Rearden, it's one or the other. 
 "You couldn't learn it and it wouldn't do you any good. You wouldn't win in any of those deals. Don't you understand? You're the one who's got something to be looted."[^101]
 >>>
 
+>>>
+"My reason is so unusual that I know it will never occur to you; loneliness, darling. Do you mind throwing a few crumbs of your expensive attention to a beggar? Do you mind if I stay here without any formal reason at all?"
+
+"No," he said quietly, "not if you wish to."
+
+"I have nothing weighty to discuss -no million dollar orders, no transcontinental deals, no rails, no bridges. Not even the political situation. I just want to chatter like a woman about perfectly unimportant things."[^102]
+>>>
+
+> To love a woman for her virtues is meaningless. She's earned it, it's a payment not a gift. But to love her for her vices is a real gift, unearned and undeserved. To love her for her vices is to defile all virtue for her sake -and *that* is a real tribute to love, because you sacrifice your conscience, your reason, your integrity and your invaluable self-esteem.[^103]
+
 ---
 
 [^96] p. 273
@@ -508,3 +518,15 @@ The purchasing manager shook his head. "No, Mr. Rearden, it's one or the other. 
 [^99] p. 281
 [^100] p. 282
 [^101] p. 283
+[^102] p. 284
+[^103] p. 284
+
+# Part 2 - Either-or
+
+# Chapter I - The Man Who Belonged To Earth
+
+> It was not cold today, the chill was in his bones -he thought- the stored accumulation of the winter months, when he had had to be distracted from his work by the awareness of such a matter as inadequate heating and people had talked about conserving fuel.[^104]
+
+---
+
+[^104] p. 315
