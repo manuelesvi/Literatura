@@ -765,3 +765,46 @@
 1. mahogany (p. 276)
 : a dark red-brown wood used to make furniture (caoba)
 
+2. bluntly (p. 284)
+: francamente
+
+3. unflatteringly (p. 284)
+: poco halagador
+
+4. taut (p. 285)
+: tenso
+
+5. spite (p. 285)
+: despecho
+
+6. trite (p. 285)
+: trillado
+
+7. shyster (p. 285)
+: picapleitos
+
+8. pouting (p. 289)
+: haciendo mala carámbanos
+
+9. callused hands (p. 290)
+: manos callosas
+
+10. grubbers (p. 291)
+: arrancadores, ladrones
+
+11. soggy (p. 299)
+: empapado
+
+12. dough (p. 300)
+: pasta
+
+13. tramp (p. 300)
+: vago
+
+14. creases (p. 300)
+: arrugas
+
+15. stammered (p. 308)
+: balbuceó
+
+
