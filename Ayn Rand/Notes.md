@@ -1,4 +1,6 @@
-# Chapter 1 - The Theme
+# Part 1 - Non-Contradiction
+
+## Chapter I - The Theme
 
 > “I’m not going to requisition a new typewriter. The new ones are made of tin. There was an accident in the subway this morning, their brackets wouldn’t work. You ought to go home, Eddie, turn on the radio and listen to a good dance band. Forget it, boy. Trouble with you is you never had a hobby. Somebody stole the electric light bulbs again, from off the staircase, down where I live. I’ve got a pain in my chest. Couldn’t get any cough drops this morning, the drugstore on our corner went bankrupt last week. The Texas-Western Railroad went bankrupt last month. They closed the Queensborough Bridge yesterday for temporary repairs. Oh well, what’s the use? Who is John Galt?” [^1]
 
@@ -24,7 +26,7 @@ He stopped. He shrugged and smiled– he was alive for a moment and it was the s
 
 ---
 
-# Chapter 2 - The Chain
+## Chapter II - The Chain
 
 > An oncoming freight train hid the view, filling the windows with a rushing smear of noise. In a sudden break above the flat cars, the passengers saw distant structures under a faint, reddish glow in the sky; the glow moved in regular spasms, as if the structures were breathing. [^6]
 
@@ -83,7 +85,7 @@ He stopped. He shrugged and smiled– he was alive for a moment and it was the s
 
 ---
 
-# Chapter 3 - The Top and The Bottom
+## Chapter III - The Top and The Bottom
 
 > Disunity, that’s the trouble. It’s my absolute opinion that in our complex industrial society, no business enterprise can succeed without sharing the burden of the problems of other enterprises. [^24]
 
@@ -136,7 +138,7 @@ He said, “I don’t like the thing that’s happening to people, Miss Taggart.
 
 ---
 
-# Chapter 4 - The Immovable Movers
+## Chapter IV - The Immovable Movers
 
 > She felt a dim touch of anxiety. She was back from a trip to the plant of the United Locomotive Works in New Jersey, where she had gone to see the president of the company in person. She had learned nothing: neither the reason for the delays nor any indication for the date when the Diesel engines would be produced. The president of the company had talked to her for two hours. But none of his answers had connected to any of her questions. His manner had conveyed a peculiar note of condescending reproach whenever she attempted to make the conversation specific, as if she were giving proof of ill-breeding by breaking some unwritten code known to everyone else. [^39]
 
@@ -184,7 +186,7 @@ When the Anti-dog-eat-dog Rule was offered to the vote of the full membership of
 
 ---
 
-# Chapter 5 - The Climax of The D'Anconias
+## Chapter V - The Climax of The D'Anconias
 
 > Sebastián d’Anconia, his ancestor, had left Spain many centuries ago, at a time when Spain was the most powerful country on earth and his was one of Spain’s most proudest figures. He left, because the lord of Inquisition did not approve of his manner of thinking and suggested, at a court banquet, that he change it. Sebastián d’Anconia threw the contents of his wine glass at the face of the lord of Inquisition, and escaped before he could be seized. He left behind his fortune, his estate, his marble palace and the girl he loved–and he sailed to a new world.[^49]
 
@@ -257,7 +259,7 @@ She looked at him blankly. “What are you trying to say?”
 
 ---
 
-# Chapter 6 - The Non-Commercial
+## Chapter VI - The Non-Commercial
 
 > This was his wedding anniversary and he had known for three months that the party would take place tonight, as Lillian wished. He had promised it to her, safe in the knowledge that the party was a long way off and that he would attend to it, when the time came, as he attended to every duty on his overloaded schedule. Then, during three months of eighteen-hour workdays, he had forgotten it happily– until half an hour ago, when, long past dinner time, his secretary had entered his office and said firmly, “Your party, Mr. Rearden.” He had cried, “Good God!” leaping to his feet; he had hurried home, rushed up the stairs, started tearing his clothes off and gone through the routine of dressing, conscious only of the need to hurry, not of the purpose. When the full realization of the purpose struck him like a sudden blow, he stopped.[^60]
 
@@ -279,7 +281,7 @@ He shrugged and reached for another canapé. A businessman said uneasily, “Wha
 
 ---
 
-# Chapter 7 - The Exploiters and The Exploited
+## Chapter VII - The Exploiters and The Exploited
 
 >>> 
 A tractor went past her, loaded with green-blue bolts. The sound of drills came as a steady shudder from far below, where men swung on metal cables, cutting the straight stone drop of the canyon wall to reinforce the abutments of the bridge. Down the track, she could see men working, their arms stiff with the tension of their muscles as they gripped the handles of electric tie tampers.
@@ -356,7 +358,7 @@ The young boy made a sound that was half-chuckle, half-sneer:
 
 ---
 
-# Chapter 8 - The John Galt Line
+## Chapter VIII - The John Galt Line
 
 > Is that what you want? Is it as simple as that? she thought, but knew that it was not simple. There was some unbreakable link between her love for her work and the desire of her body; as if one gave her the right to the other, the right and the meaning; as if one were the completion of the other -and the desire would never be satisfied, except by a being of equal greatness.[^78]
 
@@ -387,7 +389,7 @@ People said it because other people said it. They did not know why it was being 
 
 ---
 
-# Chapter 9 - The Sacred and The Profane
+## Chapter IX - The Sacred and The Profane
 
 > "What I feel for you is contempt. But it's nothing, compared to the contempt I feel for myself. I don't love you. I've never loved anyone. I wanted you from the first moment I saw you. I wanted you as one wants a whore -for the same reason and purpose. I spent two years damning myself, because I thought you were above a desire of this kind. You're not. You're as vile an animal as I am. I should loathe my discovering it. I don't. Yesterday, I would have killed anyone who'd tell me that you were capable of doing what I've had you do. Today, I would give my life not to let it be otherwise, not to have you be anything but the bitch you are. All the greatness that I saw in you -I would not take it in exchange for the obscenity of your talent at an animal's sensation of pleasure. We were two great beings, you and I, proud of our strength, weren't we? Well, this is all that's left of us -and I want no self-deception about it."[^84]
 
@@ -482,7 +484,7 @@ The man put the buckets down, as if it had just occurred to him that he did not 
 
 ---
 
-# Chapter 10 - The Wyatt's Torch
+## Chapter X - The Wyatt's Torch
 
 > "Lord, no, ma'am! He wasn't the kind that ever operates anything. He didn't want to *make* money, only to *get* it. Guess he got it, too -more than anyone could have made out of that factory."[^96]
 
@@ -521,12 +523,15 @@ The purchasing manager shook his head. "No, Mr. Rearden, it's one or the other. 
 [^102] p. 284
 [^103] p. 284
 
+---
+
 # Part 2 - Either-or
 
-# Chapter I - The Man Who Belonged To Earth
+## Chapter I - The Man Who Belonged To Earth
 
 > It was not cold today, the chill was in his bones -he thought- the stored accumulation of the winter months, when he had had to be distracted from his work by the awareness of such a matter as inadequate heating and people had talked about conserving fuel.[^104]
 
----
 
 [^104] p. 315
+
+---
