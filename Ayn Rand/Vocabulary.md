@@ -807,4 +807,9 @@
 15. stammered (p. 308)
 : balbuceó
 
+--
+
+1. garbled
+: confuso
+
 
