@@ -539,7 +539,7 @@ The purchasing manager shook his head. "No, Mr. Rearden, it's one or the other. 
 
 [^104] p. 315
 [^105] p. 316
-[^106] p. 316
-[^107] p. 
+[^106] p. 317
+[^107] p. 317
 
 ---
