@@ -531,15 +531,17 @@ The purchasing manager shook his head. "No, Mr. Rearden, it's one or the other. 
 
 > It was not cold today, the chill was in his bones -he thought- the stored accumulation of the winter months, when he had had to be distracted from his work by the awareness of such a matter as inadequate heating and people had talked about conserving fuel. [^104]
 
-> He felt the sudden contraction of his mouth, like a slap denying him the right to pursue the course of thought. [^105]
+> He felt the sudden contraction of his mouth, like a slap denying him the right to pursue the course of thought.[^105]
 
-> "The more we know, the more we learn that we know nothing." [^106]
+> "The more we know, the more we learn that we know nothing."[^106]
 
-> "Do not look for 'common sense.' To demand 'sense' is the hallmark of nonsense. Nature does not make sense. Nothing makes sense. The only crusaders for 'sense' are the studious type of adolescent old maid who can't find a boy friend, and the old-fashioned shopkeeper who thinks that the universe is as simple as his neat little inventory and beloved cash register." [^107]
+> "Do not look for 'common sense.' To demand 'sense' is the hallmark of nonsense. Nature does not make sense. Nothing makes sense. The only crusaders for 'sense' are the studious type of adolescent old maid who can't find a boy friend, and the old-fashioned shopkeeper who thinks that the universe is as simple as his neat little inventory and beloved cash register."[^107]
+
+> "You see, Dr. Stadler, people don't want to think. But by some sort of instinct, they feel that they ought to and it makes them feel guilty. So they'll bless and follow anyone who gives them a justification for not thinking. Anyone who makes a virtue -a highly intellectual virtue- out of what they know to be their sin, their weakness and their guilt."[^108]
 
 [^104] p. 315
 [^105] p. 316
 [^106] p. 317
 [^107] p. 317
-
+[^108] p. 322
 ---

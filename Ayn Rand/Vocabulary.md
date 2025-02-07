@@ -809,7 +809,22 @@
 
 --
 
+Part 2
+
+Chapter I - The Man Who Belonged on Earth
+
 1. garbled
 : confuso
 
+2. gleefully
+: alegremente
+
+3. frailty
+: fragilidad
+
+4. blizzards
+: tormentas de nieve
+
+5. clattered
+: ruido, ruidoso
 
