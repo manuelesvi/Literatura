@@ -539,7 +539,7 @@ The purchasing manager shook his head. "No, Mr. Rearden, it's one or the other. 
 
 > "You see, Dr. Stadler, people don't want to think. But by some sort of instinct, they feel that they ought to and it makes them feel guilty. So they'll bless and follow anyone who gives them a justification for not thinking. Anyone who makes a virtue -a highly intellectual virtue- out of what they know to be their sin, their weakness and their guilt."[^108]
 
-> "You know, Miss Taggart, I don't think that such a motor should ever be made, even if somebody did learn how to make it. It would be so superior to anything we've got that it would be unfair to lesser scientists, because it would leave no field for their achievements and abilities. I don't think that the strong should have the right to wound the self-esteem of the weak."[^109]
+> "You know, Miss Taggart, I don't think that such a motor should ever be made, even if somebody did learn how to make it. It would be so superior to anything we've got that it would be unfair to lesser scientists, because it would leave no field for their achievements and abilities. I don't think that the strong should have the right to wound the self-esteem of the weak." She had ordered him out of her office, and had sat with incredulous horror before the fact that the most vicious statement she had ever heard had been uttered in a tone of moral righteousness.[^109]
 
 [^104] p. 315
 [^105] p. 316
