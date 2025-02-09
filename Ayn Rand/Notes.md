@@ -541,11 +541,17 @@ The purchasing manager shook his head. "No, Mr. Rearden, it's one or the other. 
 
 > "You know, Miss Taggart, I don't think that such a motor should ever be made, even if somebody did learn how to make it. It would be so superior to anything we've got that it would be unfair to lesser scientists, because it would leave no field for their achievements and abilities. I don't think that the strong should have the right to wound the self-esteem of the weak." She had ordered him out of her office, and had sat with incredulous horror before the fact that the most vicious statement she had ever heard had been uttered in a tone of moral righteousness.[^109]
 
+> "Those men who do not mind being practical enough to sell their brains for money, ought to acquire a little knowledge of the conditions of practical reality."[^110]
+
+> "Miss. Taggart, do you know the hallmark of the second-rater? It's resentment from another man's achievement. Those touchy mediocrities who sit trembling lest someone's work prove greater than their own -they have no inkling of the loneliness that comes when you reach the top. The loneliness for an equal- for a mind to respect and an achievement to admire. They bare their teeth at you from out their rat holes, thinking that you take pleasure in letting your brilliance dim them -while you'd give a year of your life to see a flicker of talent anywhere among them. They envy achievement, and their dream of greatness is a world where all men have become their acknowledged inferiors. They don't know that that dream is the infalible proof of mediocrity, because that sort of world is what the man of achievement would not be able to bear. They have no way of knowing what he feels when surrounded by inferiors -hatred? no, not hatred, but boredom- the terrible, hopeless, draining, paralyzing boredom. Of what account are praise and adulation from men whom you don't respect? Have you ever felt the longing for someone you could admire? For something, not to look down at, but up to?"[^111]
+
 [^104] p. 315
 [^105] p. 316
 [^106] p. 317
 [^107] p. 317
 [^108] p. 322
 [^109] p. 328
+[^110] p. 331-332
+[^111] p. 333
 
 ---
