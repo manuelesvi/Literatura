@@ -1,6 +1,6 @@
-# Vocabulary
+# Part 1 - Non-Contradiction
 
-## Chapter 1: The Theme
+## Chapter 1 - The Theme
 
 1. chuckled
 : se rió entre dientes
@@ -809,9 +809,9 @@
 
 --
 
-Part 2
+# Part 2 - Either-Or
 
-Chapter I - The Man Who Belonged on Earth
+## Chapter I - The Man Who Belonged on Earth
 
 1. garbled
 : confuso
@@ -828,3 +828,5 @@ Chapter I - The Man Who Belonged on Earth
 5. clattered
 : ruido, ruidoso
 
+6. dodges
+: esquivos, evasiones
