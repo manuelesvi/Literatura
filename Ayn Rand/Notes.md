@@ -545,6 +545,8 @@ The purchasing manager shook his head. "No, Mr. Rearden, it's one or the other. 
 
 > "Miss. Taggart, do you know the hallmark of the second-rater? It's resentment from another man's achievement. Those touchy mediocrities who sit trembling lest someone's work prove greater than their own -they have no inkling of the loneliness that comes when you reach the top. The loneliness for an equal- for a mind to respect and an achievement to admire. They bare their teeth at you from out their rat holes, thinking that you take pleasure in letting your brilliance dim them -while you'd give a year of your life to see a flicker of talent anywhere among them. They envy achievement, and their dream of greatness is a world where all men have become their acknowledged inferiors. They don't know that that dream is the infalible proof of mediocrity, because that sort of world is what the man of achievement would not be able to bear. They have no way of knowing what he feels when surrounded by inferiors -hatred? no, not hatred, but boredom- the terrible, hopeless, draining, paralyzing boredom. Of what account are praise and adulation from men whom you don't respect? Have you ever felt the longing for someone you could admire? For something, not to look down at, but up to?"[^111]
 
+> He noted -as if some part of him were watching his reactions with detailed curiosity- that his smile and his sudden sense of gaiety were real. He grasped a feeling that he had always experienced, but never identified because it had always been absolute and immediate: a feeling that forbade him ever to face her in pain. It was much more than the pride of whishing to conceal his suffering: it was the feeling that suffering must not be granted recognition in her presence, that no form of claim between them should ever be motivated by pain and aimed at pity. It was not pity that that he brought here or came here to find.[^112]
+
 [^104] p. 315
 [^105] p. 316
 [^106] p. 317
@@ -553,5 +555,6 @@ The purchasing manager shook his head. "No, Mr. Rearden, it's one or the other. 
 [^109] p. 328
 [^110] p. 331-332
 [^111] p. 333
+[^112] p. 348
 
 ---
