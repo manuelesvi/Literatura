@@ -547,6 +547,10 @@ The purchasing manager shook his head. "No, Mr. Rearden, it's one or the other. 
 
 > He noted -as if some part of him were watching his reactions with detailed curiosity- that his smile and his sudden sense of gaiety were real. He grasped a feeling that he had always experienced, but never identified because it had always been absolute and immediate: a feeling that forbade him ever to face her in pain. It was much more than the pride of wishing to conceal his suffering: it was the feeling that suffering must not be granted recognition in her presence, that no form of claim between them should ever be motivated by pain and aimed at pity. It was not pity that that he brought here or came here to find.[^112]
 
+> We must not see the world as they want us to see it. It's some sort of fraud, very ancient and very vast -and the key to break it is: to check every premise they teach us, to question every percept...[^113]
+
+> What he knew, what he had discovered tonight, was that his recaptured love of existence had not been given back to him by the return of his desire for her -but that the desire had returned after he had regained his world, the love, the value and the sense of his world- and that the desire was not an answer to her body, but a celebration of himself and his will to live.[^114]
+
 [^104] p. 315
 [^105] p. 316
 [^106] p. 317
@@ -556,5 +560,7 @@ The purchasing manager shook his head. "No, Mr. Rearden, it's one or the other. 
 [^110] p. 331-332
 [^111] p. 333
 [^112] p. 348
+[^113] p. 351
+[^114] p. 352
 
 ---
