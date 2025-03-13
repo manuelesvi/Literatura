@@ -811,7 +811,7 @@
 
 # Part 2 - Either-Or
 
-## Chapter I - The Man Who Belonged on Earth
+## Chapter I - The Man Who Belonged On Earth
 
 1. garbled
 : confuso
@@ -830,3 +830,13 @@
 
 6. dodges
 : esquivos, evasiones
+
+---
+
+## Chapter II - The Aristocracy Of Full
+
+1. hastening
+: apresurando
+
+2. grimly
+: sombríamente
