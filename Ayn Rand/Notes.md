@@ -564,3 +564,12 @@ The purchasing manager shook his head. "No, Mr. Rearden, it's one or the other. 
 [^114] p. 352
 
 ---
+
+## Chapter II - The Aristocracy of Full
+
+> Dagny, I've always thought that I'd rather die than stop working.[^115]
+
+> "You know, Dr. Stadler once said that the first word of 'Free, scientific inquiry' was redundant. He seems to have forgotten it. Well, I'll just say that 'Governmental scientific inquiry is a contradiction in terms."[^116]
+
+[^115] p. 352
+[^116] p. 353

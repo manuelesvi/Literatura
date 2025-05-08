@@ -840,3 +840,13 @@
 
 2. grimly
 : sombríamente
+
+3. lanky
+: lagirucho(a)
+
+4. drawl
+: arrastrar las palabras
+
+5. skinning me
+: desgastándome
+
