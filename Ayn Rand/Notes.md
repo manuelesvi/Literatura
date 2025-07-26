@@ -571,5 +571,8 @@ The purchasing manager shook his head. "No, Mr. Rearden, it's one or the other. 
 
 > "You know, Dr. Stadler once said that the first word of 'Free, scientific inquiry' was redundant. He seems to have forgotten it. Well, I'll just say that 'Governmental scientific inquiry is a contradiction in terms."[^116]
 
+> "Why are they so sure they're right? ... If I acknowledge their superiority in the material realm, why don't they acknowledge mine in the spiritual? They have the brain, but I have the heart. They have the capacity to produce wealth, but I have the capacity to love. Isn't mine the greater capacity? Hasn't it been recognized as the greatest through all the centuries of human history? Why won't they recognize it? ... Why are they so sure they're great? ... And if they're great and I'm not -isn't that exactly why they should bow to me, because I'm not? Wouldn't that be an act of true humanity? It takes no kindness to respect a man who deserves respect -it's only a payment which he's earned. To give an unearned respect is the supreme gesture of charity. ... But they're incapable of charity. They're not human. They feel no concern for anyone's need ... or weakness. No concern ... and no pity..."[^117]
+
 [^115] p. 352
 [^116] p. 353
+[^117] p. 361
