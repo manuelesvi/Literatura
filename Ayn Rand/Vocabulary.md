@@ -850,3 +850,9 @@
 5. skinning me
 : desgastándome
 
+6. on the stoop
+: en la entrada
+
+7. forlornly
+: tristemente
+
