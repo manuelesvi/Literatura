@@ -573,6 +573,12 @@ The purchasing manager shook his head. "No, Mr. Rearden, it's one or the other. 
 
 > "Why are they so sure they're right? ... If I acknowledge their superiority in the material realm, why don't they acknowledge mine in the spiritual? They have the brain, but I have the heart. They have the capacity to produce wealth, but I have the capacity to love. Isn't mine the greater capacity? Hasn't it been recognized as the greatest through all the centuries of human history? Why won't they recognize it? ... Why are they so sure they're great? ... And if they're great and I'm not -isn't that exactly why they should bow to me, because I'm not? Wouldn't that be an act of true humanity? It takes no kindness to respect a man who deserves respect -it's only a payment which he's earned. To give an unearned respect is the supreme gesture of charity. ... But they're incapable of charity. They're not human. They feel no concern for anyone's need ... or weakness. No concern ... and no pity..."[^117]
 
+> "Money is the root of all evil," said James Taggart. "Money can't buy happiness. Love will conquer any barrier and any social distance. This may be a bromide, boys, but that's how I feel."[^118]
+
+> But both, unknown to each other, were drawing a mental chart of the faces they saw, classifying them under two headings which, if named, would have read: "Favor" and "Fear." There were men whose presence signified a special protection extended to James Taggart, and men whose presence confessed a desire to avoid his hostility -those who represented a hand lowered to pull him up, and those who represented a back bent to let him climb. By the unwritten code of the day, nobody received or accepted an invitation from a man of public prominence except in token of one or the other of these motives. Those in the first group were, for the most part, youthful; they had come from Washington. Those in the second group were older; they were businessmen.[^119]
+
 [^115] p. 352
 [^116] p. 353
 [^117] p. 361
+[^118] p. 364
+[^119] p. 364
