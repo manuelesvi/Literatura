@@ -577,8 +577,15 @@ The purchasing manager shook his head. "No, Mr. Rearden, it's one or the other. 
 
 > But both, unknown to each other, were drawing a mental chart of the faces they saw, classifying them under two headings which, if named, would have read: "Favor" and "Fear." There were men whose presence signified a special protection extended to James Taggart, and men whose presence confessed a desire to avoid his hostility -those who represented a hand lowered to pull him up, and those who represented a back bent to let him climb. By the unwritten code of the day, nobody received or accepted an invitation from a man of public prominence except in token of one or the other of these motives. Those in the first group were, for the most part, youthful; they had come from Washington. Those in the second group were older; they were businessmen.[^119]
 
+>>>
+"We are the dawn of a new age,"... "We are breaking up the vicious tyranny of economic power. We will set men free of the rule of the dollar. We will release our spiritual aims from dependence on the owners of material means. We will liberate our culture from the stranglehold of the profit-chasers. We will build a society dedicated to higher ideals, and we will replace the aristocracy of money by-"
+
+"-the aristocracy of pull," said a voice beyond the group.[^120]
+>>>
+
 [^115] p. 352
 [^116] p. 353
 [^117] p. 361
 [^118] p. 364
 [^119] p. 364
+[^120] p. 375
