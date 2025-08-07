@@ -583,9 +583,12 @@ The purchasing manager shook his head. "No, Mr. Rearden, it's one or the other. 
 "-the aristocracy of pull," said a voice beyond the group.[^120]
 >>>
 
+> "I think it's funny. There was a time when men were afraid that somebody would reveal some secret of theirs that was unknown to their fellows. Nowadays, they're afraid that somebody will name what everybody knows. Have you practical people ever thought that that's all it would take to blast your whole, big, complex structure, with all your laws and guns -just somebody naming the exact nature of what you're doing?"[^121]
+
 [^115] p. 352
 [^116] p. 353
 [^117] p. 361
 [^118] p. 364
 [^119] p. 364
 [^120] p. 375
+[^121] p. 377-378
