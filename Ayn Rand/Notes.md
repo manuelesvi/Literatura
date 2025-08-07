@@ -585,6 +585,10 @@ The purchasing manager shook his head. "No, Mr. Rearden, it's one or the other. 
 
 > "I think it's funny. There was a time when men were afraid that somebody would reveal some secret of theirs that was unknown to their fellows. Nowadays, they're afraid that somebody will name what everybody knows. Have you practical people ever thought that that's all it would take to blast your whole, big, complex structure, with all your laws and guns -just somebody naming the exact nature of what you're doing?"[^121]
 
+> Money is *made* -before it can be looted or mooched- made by the effort of every honest man, each to the extent of his ability. An honest man is one who knows that he can't consume more than he has produced.[^122]
+
+> Money demands that you sell, not your weakness to men's stupidity, but your talent to their reason; it demands that you buy, not the shoddiest they offer, but the best that your money can find. And when men live by trade -with reason, not force, as their final arbiter -it is the best product that wins, the best performance, the man of best judgment and highest ability -and the degree of a man's productiveness is the degree of his reward. This is the code of existance whose tool and symbol is money.[^123]
+ 
 [^115] p. 352
 [^116] p. 353
 [^117] p. 361
@@ -592,3 +596,5 @@ The purchasing manager shook his head. "No, Mr. Rearden, it's one or the other. 
 [^119] p. 364
 [^120] p. 375
 [^121] p. 377-378
+[^122] p. 381
+[^123] p. 381
