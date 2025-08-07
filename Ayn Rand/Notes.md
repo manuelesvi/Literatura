@@ -587,7 +587,7 @@ The purchasing manager shook his head. "No, Mr. Rearden, it's one or the other. 
 
 > Money is *made* -before it can be looted or mooched- made by the effort of every honest man, each to the extent of his ability. An honest man is one who knows that he can't consume more than he has produced.[^122]
 
-> Money demands that you sell, not your weakness to men's stupidity, but your talent to their reason; it demands that you buy, not the shoddiest they offer, but the best that your money can find. And when men live by trade -with reason, not force, as their final arbiter -it is the best product that wins, the best performance, the man of best judgment and highest ability -and the degree of a man's productiveness is the degree of his reward. This is the code of existance whose tool and symbol is money.[^123]
+> Money demands that you sell, not your weakness to men's stupidity, but your talent to their reason; it demands that you buy, not the shoddiest they offer, but the best that your money can find. And when men live by trade -with reason, not force, as their final arbiter -it is the best product that wins, the best performance, the man of best judgment and highest ability -and the degree of a man's productiveness is the degree of his reward. This is the code of existence whose tool and symbol is money.[^123]
  
 [^115] p. 352
 [^116] p. 353
