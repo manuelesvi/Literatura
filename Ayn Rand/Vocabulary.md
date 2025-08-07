@@ -856,3 +856,5 @@
 7. forlornly
 : tristemente
 
+8. shoddiest
+: inferior, poorly done
