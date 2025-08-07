@@ -856,5 +856,8 @@
 7. forlornly
 : tristemente
 
-8. shoddiest
+8. moochers
+: gorrones
+
+9. shoddiest
 : inferior, poorly done
