@@ -588,6 +588,10 @@ The purchasing manager shook his head. "No, Mr. Rearden, it's one or the other. 
 > Money is *made* -before it can be looted or mooched- made by the effort of every honest man, each to the extent of his ability. An honest man is one who knows that he can't consume more than he has produced.[^122]
 
 > Money demands that you sell, not your weakness to men's stupidity, but your talent to their reason; it demands that you buy, not the shoddiest they offer, but the best that your money can find. And when men live by trade -with reason, not force, as their final arbiter -it is the best product that wins, the best performance, the man of best judgment and highest ability -and the degree of a man's productiveness is the degree of his reward. This is the code of existence whose tool and symbol is money.[^123]
+
+> Money will not purchase happiness for the man who has no concept of what he wants: money will not give him a code of values, if he's evaded the knowledge of what to value, and it will not provide him with a purpose, if he's evaded what to seek. Money will not buy intelligence for the fool, or admiration for the coward, or respect for the incompetent. The man who attempts to purchase the brains of his superiors to serve him, with his money replacing his judgment, ends up by becoming the victim of his inferiors. The men of intelligence desert him, but the cheats and the frauds come flocking to him, drawn by a law which he has not discovered: that no man may be smaller than his money. Is this the reason why you call it evil?[^124]
+
+> "Only the man who does not need it, is fit to inherit wealth -the man who would make his own fortune no matter where he started. If an heir is equal to his money, it serves him; if not, it destroys him. But you look on and you cry that money corrupted him. Did it? Or did he corrupt his money? Do not envy a worthless heir; his wealth is not yours and you would have done no better with it. Do not think that it should have been distributed among you; loading the world with fifty parasites instead of one, would not bring back the dead virtue which was the fortune. Money is a living power that dies without its root. Money will not serve the mind that cannot match it. Is this the reason why you call it evil?"[^125]
  
 [^115] p. 352
 [^116] p. 353
@@ -598,3 +602,5 @@ The purchasing manager shook his head. "No, Mr. Rearden, it's one or the other. 
 [^121] p. 377-378
 [^122] p. 381
 [^123] p. 381
+[^124] p. 382
+[^125] p. 382
